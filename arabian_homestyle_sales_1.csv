@@ -1,0 +1,733 @@
+order_id,order_date,ship_date,days_to_ship,product_name,category,subcategory,city,province,quantity,unit_price,discount_pct,discounted_price,revenue,cost,profit,payment_method,order_status
+AHS-1000,1-Apr-2024,4-Apr-2024,3,Chestnut Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0,2999,2999,1500,1499,Bank Transfer,Delivered
+AHS-1001,1-Apr-2024,4-Apr-2024,3,Nexus Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2650,0,2650,2650,1400,1250,Bank Transfer,Delivered
+AHS-1002,1-Apr-2024,3-Apr-2024,2,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Faisalabad,Punjab,2,5999,0.1,5399,10798,6400,4398,COD,Delivered
+AHS-1003,1-Apr-2024,3-Apr-2024,2,Coco Blossom Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,1,2999,0,2999,2999,1500,1499,COD,Returned
+AHS-1004,2-Apr-2024,5-Apr-2024,3,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Karachi,Sindh,2,9999,0.1,8999,17998,12400,5598,Bank Transfer,Delivered
+AHS-1005,3-Apr-2024,7-Apr-2024,4,Chestnut Bedsheet,Bedding,Bed Sheets,Sialkot,Punjab,1,2999,0.1,2699,2699,1500,1199,Bank Transfer,Delivered
+AHS-1006,3-Apr-2024,4-Apr-2024,1,Premium Bath Mat,Mats,Mats,Karachi,Sindh,1,1999,0.15,1699,1699,1000,699,JazzCash,Delivered
+AHS-1007,3-Apr-2024,6-Apr-2024,3,Silva Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2650,0.15,2252,2252,1400,852,COD,Delivered
+AHS-1008,4-Apr-2024,7-Apr-2024,3,Fleece Blanket Grey,Bedding,Blankets,Rawalpindi,Punjab,1,3500,0,3500,3500,1800,1700,COD,Delivered
+AHS-1009,4-Apr-2024,6-Apr-2024,2,Coco Blossom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0.2,2399,2399,1500,899,COD,Delivered
+AHS-1010,4-Apr-2024,7-Apr-2024,3,Jingle Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0,2650,2650,1400,1250,COD,Delivered
+AHS-1011,5-Apr-2024,6-Apr-2024,1,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.2,7199,7199,5500,1699,COD,Delivered
+AHS-1012,5-Apr-2024,9-Apr-2024,4,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Faisalabad,Punjab,1,5999,0.15,5099,5099,3200,1899,Bank Transfer,Delivered
+AHS-1013,6-Apr-2024,9-Apr-2024,3,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Sialkot,Punjab,1,5999,0.1,5399,5399,3200,2199,EasyPaisa,Delivered
+AHS-1014,6-Apr-2024,10-Apr-2024,4,Coco Blossom Bedsheet,Bedding,Bed Sheets,Multan,Punjab,1,2999,0,2999,2999,1500,1499,JazzCash,Delivered
+AHS-1015,6-Apr-2024,10-Apr-2024,4,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Peshawar,KPK,1,2099,0.15,1784,1784,1100,684,COD,Delivered
+AHS-1016,7-Apr-2024,9-Apr-2024,2,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.1,8099,8099,5500,2599,EasyPaisa,Returned
+AHS-1017,7-Apr-2024,10-Apr-2024,3,Modern Rug MD-211,Rugs,Modern Rugs,Faisalabad,Punjab,1,8999,0,8999,8999,5500,3499,EasyPaisa,Delivered
+AHS-1018,8-Apr-2024,11-Apr-2024,3,Night Petals Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0.28,2159,2159,1500,659,JazzCash,Delivered
+AHS-1019,8-Apr-2024,9-Apr-2024,1,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,8999,0,8999,8999,5500,3499,EasyPaisa,Cancelled
+AHS-1020,8-Apr-2024,11-Apr-2024,3,Jingle Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0,2650,2650,1400,1250,EasyPaisa,Delivered
+AHS-1021,10-Apr-2024,12-Apr-2024,2,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0.1,2699,2699,1500,1199,EasyPaisa,Delivered
+AHS-1022,10-Apr-2024,14-Apr-2024,4,Chestnut Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Quetta,Balochistan,2,5999,0.15,5099,10198,6400,3798,COD,Delivered
+AHS-1023,11-Apr-2024,14-Apr-2024,3,Modern Rug MD-202,Rugs,Modern Rugs,Peshawar,KPK,1,6999,0,6999,6999,4000,2999,COD,Delivered
+AHS-1024,11-Apr-2024,13-Apr-2024,2,Kitchen Anti-Fatigue Mat,Mats,Mats,Karachi,Sindh,1,2499,0.1,2249,2249,1300,949,JazzCash,Delivered
+AHS-1025,11-Apr-2024,14-Apr-2024,3,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2999,0.1,2699,2699,1500,1199,Bank Transfer,Delivered
+AHS-1026,11-Apr-2024,13-Apr-2024,2,Premium Bath Mat,Mats,Mats,Lahore,Punjab,2,1999,0.15,1699,3398,2000,1398,COD,Delivered
+AHS-1027,12-Apr-2024,13-Apr-2024,1,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,8999,0.15,7649,7649,5500,2149,JazzCash,Delivered
+AHS-1028,12-Apr-2024,14-Apr-2024,2,Jingle Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2650,0.2,2120,2120,1400,720,COD,Delivered
+AHS-1029,13-Apr-2024,16-Apr-2024,3,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1030,14-Apr-2024,15-Apr-2024,1,Silva Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,3,2650,0.15,2252,6756,4200,2556,JazzCash,Returned
+AHS-1031,14-Apr-2024,15-Apr-2024,1,Coco Blossom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0.2,2399,2399,1500,899,COD,Delivered
+AHS-1032,14-Apr-2024,17-Apr-2024,3,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Karachi,Sindh,2,9999,0.1,8999,17998,12400,5598,JazzCash,Delivered
+AHS-1033,15-Apr-2024,18-Apr-2024,3,Modern Rug MD-208,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0.28,5039,5039,4000,1039,COD,Delivered
+AHS-1034,15-Apr-2024,18-Apr-2024,3,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1035,15-Apr-2024,18-Apr-2024,3,Nexus Bedsheet,Bedding,Bed Sheets,Peshawar,KPK,1,2650,0,2650,2650,1400,1250,COD,Delivered
+AHS-1036,15-Apr-2024,17-Apr-2024,2,Kitchen Anti-Fatigue Mat,Mats,Mats,Islamabad,ICT,1,2499,0.1,2249,2249,1300,949,COD,Delivered
+AHS-1037,16-Apr-2024,21-Apr-2024,5,Chestnut Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Rawalpindi,Punjab,1,5999,0,5999,5999,3200,2799,Bank Transfer,Delivered
+AHS-1038,16-Apr-2024,18-Apr-2024,2,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Quetta,Balochistan,3,8999,0,8999,26997,16500,10497,Bank Transfer,Delivered
+AHS-1039,16-Apr-2024,17-Apr-2024,1,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1040,16-Apr-2024,19-Apr-2024,3,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,9999,0.1,8999,8999,6200,2799,JazzCash,Delivered
+AHS-1041,17-Apr-2024,18-Apr-2024,1,Modern Rug MD-212,Rugs,Modern Rugs,Karachi,Sindh,2,8999,0,8999,17998,11000,6998,JazzCash,Delivered
+AHS-1042,18-Apr-2024,21-Apr-2024,3,Fleece Blanket Purple,Bedding,Blankets,Karachi,Sindh,1,3500,0.1,3150,3150,1800,1350,Bank Transfer,Delivered
+AHS-1043,18-Apr-2024,19-Apr-2024,1,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0,8999,8999,5500,3499,JazzCash,Delivered
+AHS-1044,19-Apr-2024,23-Apr-2024,4,Nexus Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,2,2650,0,2650,5300,2800,2500,COD,Delivered
+AHS-1045,19-Apr-2024,22-Apr-2024,3,Coco Blossom Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2999,0.1,2699,2699,1500,1199,COD,Delivered
+AHS-1046,19-Apr-2024,21-Apr-2024,2,Modern Rug MD-213,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0.1,6299,6299,4000,2299,COD,Delivered
+AHS-1047,20-Apr-2024,25-Apr-2024,5,Serenity Bedsheet,Bedding,Bed Sheets,Peshawar,KPK,1,2650,0,2650,2650,1400,1250,EasyPaisa,Delivered
+AHS-1048,20-Apr-2024,25-Apr-2024,5,Night Petals Bedsheet,Bedding,Bed Sheets,Quetta,Balochistan,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1049,21-Apr-2024,24-Apr-2024,3,Mosaic Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,3,2650,0.15,2252,6756,4200,2556,Bank Transfer,Delivered
+AHS-1050,21-Apr-2024,22-Apr-2024,1,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Karachi,Sindh,2,5999,0,5999,11998,6400,5598,EasyPaisa,Delivered
+AHS-1051,21-Apr-2024,23-Apr-2024,2,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Multan,Punjab,1,5999,0,5999,5999,3200,2799,COD,Delivered
+AHS-1052,22-Apr-2024,25-Apr-2024,3,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,1,5999,0,5999,5999,3200,2799,COD,Delivered
+AHS-1053,22-Apr-2024,26-Apr-2024,4,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,2,8999,0,8999,17998,11000,6998,EasyPaisa,Delivered
+AHS-1054,22-Apr-2024,24-Apr-2024,2,Grey Blossom Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,3,2999,0,2999,8997,4500,4497,COD,Delivered
+AHS-1055,22-Apr-2024,25-Apr-2024,3,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Islamabad,ICT,1,11999,0,11999,11999,7500,4499,COD,Delivered
+AHS-1056,23-Apr-2024,26-Apr-2024,3,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Karachi,Sindh,3,11999,0.1,10799,32397,22500,9897,Bank Transfer,Delivered
+AHS-1057,24-Apr-2024,25-Apr-2024,1,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,1,5999,0.15,5099,5099,3200,1899,COD,Delivered
+AHS-1058,24-Apr-2024,25-Apr-2024,1,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Islamabad,ICT,1,8999,0,8999,8999,5500,3499,Bank Transfer,Delivered
+AHS-1059,24-Apr-2024,29-Apr-2024,5,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,1,8999,0.15,7649,7649,5500,2149,Bank Transfer,Delivered
+AHS-1060,25-Apr-2024,29-Apr-2024,4,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Multan,Punjab,1,2099,0,2099,2099,1100,999,Bank Transfer,Delivered
+AHS-1061,25-Apr-2024,28-Apr-2024,3,Modern Rug MD-205,Rugs,Modern Rugs,Lahore,Punjab,1,8999,0.1,8099,8099,5500,2599,JazzCash,Delivered
+AHS-1062,25-Apr-2024,28-Apr-2024,3,Coco Blossom Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,1,2999,0.15,2549,2549,1500,1049,COD,Delivered
+AHS-1063,26-Apr-2024,27-Apr-2024,1,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1064,26-Apr-2024,27-Apr-2024,1,Modern Rug MD-205,Rugs,Modern Rugs,Lahore,Punjab,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1065,26-Apr-2024,1-May-2024,5,Night Petals Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,1,2999,0.15,2549,2549,1500,1049,COD,Delivered
+AHS-1066,27-Apr-2024,28-Apr-2024,1,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Karachi,Sindh,3,5999,0.1,5399,16197,9600,6597,COD,Delivered
+AHS-1067,27-Apr-2024,29-Apr-2024,2,Modern Rug MD-205,Rugs,Modern Rugs,Karachi,Sindh,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1068,27-Apr-2024,29-Apr-2024,2,Modern Rug MD-211,Rugs,Modern Rugs,Lahore,Punjab,2,8999,0.1,8099,16198,11000,5198,EasyPaisa,Delivered
+AHS-1069,27-Apr-2024,30-Apr-2024,3,Fleece Blanket Purple,Bedding,Blankets,Faisalabad,Punjab,2,3500,0,3500,7000,3600,3400,COD,Delivered
+AHS-1070,27-Apr-2024,28-Apr-2024,1,Fleece Blanket Grey,Bedding,Blankets,Lahore,Punjab,2,3500,0,3500,7000,3600,3400,EasyPaisa,Delivered
+AHS-1071,29-Apr-2024,1-May-2024,2,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1072,30-Apr-2024,3-May-2024,3,Modern Rug MD-213,Rugs,Modern Rugs,Lahore,Punjab,1,6999,0.15,5949,5949,4000,1949,EasyPaisa,Delivered
+AHS-1073,30-Apr-2024,5-May-2024,5,Mosaic Bedsheet,Bedding,Bed Sheets,Peshawar,KPK,2,2650,0,2650,5300,2800,2500,COD,Delivered
+AHS-1074,30-Apr-2024,2-May-2024,2,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Islamabad,ICT,2,8999,0.15,7649,15298,11000,4298,COD,Delivered
+AHS-1075,30-Apr-2024,2-May-2024,2,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,11999,0.15,10199,10199,7500,2699,Bank Transfer,Delivered
+AHS-1076,1-May-2024,3-May-2024,2,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Sialkot,Punjab,1,2999,0.2,2399,2399,1500,899,Bank Transfer,Delivered
+AHS-1077,1-May-2024,3-May-2024,2,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,11999,0,11999,11999,7500,4499,COD,Delivered
+AHS-1078,3-May-2024,5-May-2024,2,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Faisalabad,Punjab,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1079,4-May-2024,7-May-2024,3,Modern Rug MD-207,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0.28,5039,5039,4000,1039,Bank Transfer,Delivered
+AHS-1080,4-May-2024,7-May-2024,3,Serenity Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,3,2650,0,2650,7950,4200,3750,COD,Delivered
+AHS-1081,4-May-2024,7-May-2024,3,Modern Rug MD-207,Rugs,Modern Rugs,Rawalpindi,Punjab,1,6999,0,6999,6999,4000,2999,EasyPaisa,Delivered
+AHS-1082,4-May-2024,9-May-2024,5,Chestnut Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2999,0,2999,2999,1500,1499,JazzCash,Delivered
+AHS-1083,4-May-2024,8-May-2024,4,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Hyderabad,Sindh,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1084,5-May-2024,7-May-2024,2,Chestnut Bedsheet,Bedding,Bed Sheets,Multan,Punjab,1,2999,0,2999,2999,1500,1499,Bank Transfer,Delivered
+AHS-1085,5-May-2024,9-May-2024,4,Modern Rug MD-211,Rugs,Modern Rugs,Rawalpindi,Punjab,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1086,5-May-2024,10-May-2024,5,Modern Rug MD-205,Rugs,Modern Rugs,Rawalpindi,Punjab,1,8999,0.15,7649,7649,5500,2149,COD,Returned
+AHS-1087,5-May-2024,6-May-2024,1,Modern Rug MD-205,Rugs,Modern Rugs,Lahore,Punjab,2,8999,0,8999,17998,11000,6998,EasyPaisa,Delivered
+AHS-1088,7-May-2024,9-May-2024,2,Fleece Blanket Grey,Bedding,Blankets,Peshawar,KPK,1,3500,0.1,3150,3150,1800,1350,COD,Delivered
+AHS-1089,8-May-2024,12-May-2024,4,Modern Rug MD-208,Rugs,Modern Rugs,Peshawar,KPK,1,6999,0,6999,6999,4000,2999,COD,Delivered
+AHS-1090,8-May-2024,9-May-2024,1,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Karachi,Sindh,3,2099,0,2099,6297,3300,2997,COD,Delivered
+AHS-1091,9-May-2024,12-May-2024,3,Modern Rug MD-207,Rugs,Modern Rugs,Rawalpindi,Punjab,1,6999,0.15,5949,5949,4000,1949,COD,Delivered
+AHS-1092,9-May-2024,13-May-2024,4,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,1,8999,0.1,8099,8099,5500,2599,JazzCash,Delivered
+AHS-1093,11-May-2024,13-May-2024,2,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1094,11-May-2024,15-May-2024,4,Modern Rug MD-213,Rugs,Modern Rugs,Hyderabad,Sindh,1,6999,0,6999,6999,4000,2999,COD,Delivered
+AHS-1095,12-May-2024,15-May-2024,3,Silva Bedsheet,Bedding,Bed Sheets,Multan,Punjab,1,2650,0,2650,2650,1400,1250,Bank Transfer,Delivered
+AHS-1096,12-May-2024,14-May-2024,2,Fleece Blanket Grey,Bedding,Blankets,Karachi,Sindh,1,3500,0,3500,3500,1800,1700,Bank Transfer,Returned
+AHS-1097,13-May-2024,15-May-2024,2,Silva Bedsheet,Bedding,Bed Sheets,Peshawar,KPK,1,2650,0.1,2385,2385,1400,985,COD,Delivered
+AHS-1098,13-May-2024,15-May-2024,2,Fleece Blanket Purple,Bedding,Blankets,Hyderabad,Sindh,1,3500,0.15,2975,2975,1800,1175,COD,Delivered
+AHS-1099,13-May-2024,15-May-2024,2,Night Petals Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0,2999,2999,1500,1499,COD,Cancelled
+AHS-1100,14-May-2024,19-May-2024,5,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Faisalabad,Punjab,1,5999,0.2,4799,4799,3200,1599,Bank Transfer,Delivered
+AHS-1101,16-May-2024,19-May-2024,3,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Islamabad,ICT,1,8999,0.28,6479,6479,5500,979,EasyPaisa,Delivered
+AHS-1102,16-May-2024,18-May-2024,2,Chestnut Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Karachi,Sindh,1,5999,0,5999,5999,3200,2799,COD,Delivered
+AHS-1103,17-May-2024,22-May-2024,5,Modern Rug MD-202,Rugs,Modern Rugs,Rawalpindi,Punjab,1,6999,0,6999,6999,4000,2999,COD,Delivered
+AHS-1104,17-May-2024,20-May-2024,3,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,3,2999,0.15,2549,7647,4500,3147,Bank Transfer,Delivered
+AHS-1105,18-May-2024,19-May-2024,1,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,11999,0,11999,11999,7500,4499,COD,Delivered
+AHS-1106,19-May-2024,24-May-2024,5,Coco Blossom Bedsheet,Bedding,Bed Sheets,Multan,Punjab,1,2999,0.15,2549,2549,1500,1049,COD,Delivered
+AHS-1107,19-May-2024,21-May-2024,2,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,3,8999,0.1,8099,24297,16500,7797,COD,Delivered
+AHS-1108,19-May-2024,21-May-2024,2,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Faisalabad,Punjab,1,11999,0,11999,11999,7500,4499,Bank Transfer,Delivered
+AHS-1109,20-May-2024,22-May-2024,2,Fleece Blanket Grey,Bedding,Blankets,Islamabad,ICT,2,3500,0,3500,7000,3600,3400,COD,Delivered
+AHS-1110,20-May-2024,25-May-2024,5,Grey Blossom Bedsheet,Bedding,Bed Sheets,Sialkot,Punjab,1,2999,0.15,2549,2549,1500,1049,COD,Returned
+AHS-1111,21-May-2024,24-May-2024,3,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1112,21-May-2024,26-May-2024,5,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Multan,Punjab,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1113,21-May-2024,25-May-2024,4,Modern Rug MD-211,Rugs,Modern Rugs,Multan,Punjab,1,8999,0.2,7199,7199,5500,1699,COD,Delivered
+AHS-1114,22-May-2024,27-May-2024,5,Modern Rug MD-208,Rugs,Modern Rugs,Rawalpindi,Punjab,2,6999,0,6999,13998,8000,5998,JazzCash,Delivered
+AHS-1115,22-May-2024,25-May-2024,3,Modern Rug MD-208,Rugs,Modern Rugs,Karachi,Sindh,3,6999,0.1,6299,18897,12000,6897,COD,Delivered
+AHS-1116,24-May-2024,25-May-2024,1,Opal Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2650,0.28,1908,1908,1400,508,COD,Delivered
+AHS-1117,24-May-2024,26-May-2024,2,Night Petals Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2999,0.1,2699,5398,3000,2398,EasyPaisa,Delivered
+AHS-1118,25-May-2024,26-May-2024,1,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,1,5999,0,5999,5999,3200,2799,Bank Transfer,Delivered
+AHS-1119,26-May-2024,27-May-2024,1,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,2,2999,0.1,2699,5398,3000,2398,COD,Returned
+AHS-1120,27-May-2024,1-Jun-2024,5,Fleece Blanket Beige,Bedding,Blankets,Faisalabad,Punjab,2,3500,0.1,3150,6300,3600,2700,EasyPaisa,Delivered
+AHS-1121,27-May-2024,28-May-2024,1,Modern Rug MD-213,Rugs,Modern Rugs,Lahore,Punjab,1,6999,0.15,5949,5949,4000,1949,JazzCash,Delivered
+AHS-1122,27-May-2024,30-May-2024,3,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Islamabad,ICT,1,5999,0.15,5099,5099,3200,1899,Bank Transfer,Delivered
+AHS-1123,28-May-2024,29-May-2024,1,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,9999,0.15,8499,8499,6200,2299,COD,Cancelled
+AHS-1124,29-May-2024,1-Jun-2024,3,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2999,0.2,2399,2399,1500,899,COD,Delivered
+AHS-1125,29-May-2024,31-May-2024,2,Modern Rug MD-205,Rugs,Modern Rugs,Karachi,Sindh,1,8999,0.2,7199,7199,5500,1699,COD,Cancelled
+AHS-1126,29-May-2024,3-Jun-2024,5,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,1,8999,0,8999,8999,5500,3499,Bank Transfer,Delivered
+AHS-1127,29-May-2024,1-Jun-2024,3,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,2,8999,0.1,8099,16198,11000,5198,Bank Transfer,Delivered
+AHS-1128,30-May-2024,1-Jun-2024,2,Fleece Blanket Beige,Bedding,Blankets,Sialkot,Punjab,2,3500,0.1,3150,6300,3600,2700,Bank Transfer,Delivered
+AHS-1129,30-May-2024,1-Jun-2024,2,Modern Rug MD-202,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0,6999,6999,4000,2999,COD,Delivered
+AHS-1130,1-Jun-2024,2-Jun-2024,1,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,9999,0.1,8999,8999,6200,2799,COD,Delivered
+AHS-1131,1-Jun-2024,2-Jun-2024,1,Nexus Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2650,0.15,2252,2252,1400,852,Bank Transfer,Delivered
+AHS-1132,1-Jun-2024,5-Jun-2024,4,Modern Rug MD-205,Rugs,Modern Rugs,Rawalpindi,Punjab,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1133,2-Jun-2024,4-Jun-2024,2,Modern Rug MD-213,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0,6999,6999,4000,2999,Bank Transfer,Delivered
+AHS-1134,2-Jun-2024,4-Jun-2024,2,Fleece Blanket Purple,Bedding,Blankets,Lahore,Punjab,1,3500,0.28,2520,2520,1800,720,COD,Delivered
+AHS-1135,2-Jun-2024,4-Jun-2024,2,Premium Bath Mat,Mats,Mats,Lahore,Punjab,1,1999,0.15,1699,1699,1000,699,EasyPaisa,Delivered
+AHS-1136,3-Jun-2024,6-Jun-2024,3,Fleece Blanket Grey,Bedding,Blankets,Karachi,Sindh,2,3500,0.15,2975,5950,3600,2350,JazzCash,Cancelled
+AHS-1137,3-Jun-2024,6-Jun-2024,3,Modern Rug MD-208,Rugs,Modern Rugs,Multan,Punjab,2,6999,0.15,5949,11898,8000,3898,EasyPaisa,Delivered
+AHS-1138,5-Jun-2024,7-Jun-2024,2,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Rawalpindi,Punjab,1,5999,0.15,5099,5099,3200,1899,EasyPaisa,Delivered
+AHS-1139,5-Jun-2024,7-Jun-2024,2,Serenity Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2650,0.1,2385,2385,1400,985,COD,Delivered
+AHS-1140,7-Jun-2024,11-Jun-2024,4,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Faisalabad,Punjab,1,8999,0,8999,8999,5500,3499,JazzCash,Delivered
+AHS-1141,9-Jun-2024,11-Jun-2024,2,Coco Blossom Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,2,2999,0.1,2699,5398,3000,2398,Bank Transfer,Delivered
+AHS-1142,9-Jun-2024,12-Jun-2024,3,Chestnut Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0.15,2549,2549,1500,1049,Bank Transfer,Delivered
+AHS-1143,9-Jun-2024,11-Jun-2024,2,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Hyderabad,Sindh,2,8999,0,8999,17998,11000,6998,COD,Delivered
+AHS-1144,10-Jun-2024,12-Jun-2024,2,Modern Rug MD-205,Rugs,Modern Rugs,Lahore,Punjab,2,8999,0,8999,17998,11000,6998,Bank Transfer,Delivered
+AHS-1145,11-Jun-2024,14-Jun-2024,3,Silva Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,1,2650,0.1,2385,2385,1400,985,COD,Returned
+AHS-1146,11-Jun-2024,13-Jun-2024,2,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,1,2999,0.15,2549,2549,1500,1049,COD,Delivered
+AHS-1147,12-Jun-2024,14-Jun-2024,2,Serenity Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2650,0,2650,2650,1400,1250,COD,Delivered
+AHS-1148,12-Jun-2024,15-Jun-2024,3,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,2,9999,0.2,7999,15998,12400,3598,Bank Transfer,Delivered
+AHS-1149,12-Jun-2024,16-Jun-2024,4,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,2,8999,0.1,8099,16198,11000,5198,COD,Returned
+AHS-1150,13-Jun-2024,16-Jun-2024,3,Chestnut Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,3,5999,0.2,4799,14397,9600,4797,Bank Transfer,Delivered
+AHS-1151,14-Jun-2024,15-Jun-2024,1,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.28,6479,6479,5500,979,EasyPaisa,Returned
+AHS-1152,14-Jun-2024,17-Jun-2024,3,Chestnut Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Rawalpindi,Punjab,1,5999,0,5999,5999,3200,2799,COD,Delivered
+AHS-1153,15-Jun-2024,16-Jun-2024,1,Premium Bath Mat,Mats,Mats,Karachi,Sindh,2,1999,0.1,1799,3598,2000,1598,EasyPaisa,Delivered
+AHS-1154,15-Jun-2024,18-Jun-2024,3,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Faisalabad,Punjab,2,8999,0.1,8099,16198,11000,5198,JazzCash,Delivered
+AHS-1155,15-Jun-2024,16-Jun-2024,1,Modern Rug MD-213,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0.15,5949,5949,4000,1949,COD,Delivered
+AHS-1156,15-Jun-2024,18-Jun-2024,3,Kitchen Anti-Fatigue Mat,Mats,Mats,Lahore,Punjab,1,2499,0,2499,2499,1300,1199,COD,Delivered
+AHS-1157,16-Jun-2024,19-Jun-2024,3,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2999,0.1,2699,5398,3000,2398,COD,Delivered
+AHS-1158,17-Jun-2024,19-Jun-2024,2,Serenity Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,2,2650,0.15,2252,4504,2800,1704,Bank Transfer,Delivered
+AHS-1159,19-Jun-2024,24-Jun-2024,5,Jingle Bedsheet,Bedding,Bed Sheets,Sialkot,Punjab,2,2650,0.1,2385,4770,2800,1970,Bank Transfer,Delivered
+AHS-1160,20-Jun-2024,24-Jun-2024,4,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Peshawar,KPK,1,2999,0,2999,2999,1500,1499,Bank Transfer,Delivered
+AHS-1161,20-Jun-2024,22-Jun-2024,2,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Sialkot,Punjab,1,9999,0.1,8999,8999,6200,2799,COD,Delivered
+AHS-1162,20-Jun-2024,25-Jun-2024,5,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Faisalabad,Punjab,1,2099,0.1,1889,1889,1100,789,COD,Delivered
+AHS-1163,20-Jun-2024,21-Jun-2024,1,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1164,21-Jun-2024,22-Jun-2024,1,Modern Rug MD-207,Rugs,Modern Rugs,Karachi,Sindh,2,6999,0,6999,13998,8000,5998,Bank Transfer,Delivered
+AHS-1165,21-Jun-2024,24-Jun-2024,3,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Karachi,Sindh,3,2099,0.1,1889,5667,3300,2367,COD,Delivered
+AHS-1166,21-Jun-2024,24-Jun-2024,3,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Peshawar,KPK,2,11999,0.28,8639,17278,15000,2278,COD,Delivered
+AHS-1167,21-Jun-2024,25-Jun-2024,4,Night Petals Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1168,21-Jun-2024,24-Jun-2024,3,Premium Bath Mat,Mats,Mats,Karachi,Sindh,1,1999,0.1,1799,1799,1000,799,Bank Transfer,Delivered
+AHS-1169,22-Jun-2024,25-Jun-2024,3,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Karachi,Sindh,3,2099,0.15,1784,5352,3300,2052,COD,Delivered
+AHS-1170,22-Jun-2024,24-Jun-2024,2,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Quetta,Balochistan,1,8999,0,8999,8999,5500,3499,Bank Transfer,Delivered
+AHS-1171,24-Jun-2024,29-Jun-2024,5,Night Petals Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,3,2999,0,2999,8997,4500,4497,COD,Delivered
+AHS-1172,24-Jun-2024,25-Jun-2024,1,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0,8999,8999,5500,3499,Bank Transfer,Returned
+AHS-1173,24-Jun-2024,26-Jun-2024,2,Night Petals Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0.15,2549,2549,1500,1049,Bank Transfer,Delivered
+AHS-1174,26-Jun-2024,29-Jun-2024,3,Modern Rug MD-202,Rugs,Modern Rugs,Lahore,Punjab,1,6999,0.1,6299,6299,4000,2299,COD,Delivered
+AHS-1175,26-Jun-2024,27-Jun-2024,1,Kitchen Anti-Fatigue Mat,Mats,Mats,Lahore,Punjab,1,2499,0,2499,2499,1300,1199,Bank Transfer,Delivered
+AHS-1176,27-Jun-2024,28-Jun-2024,1,Chestnut Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,1,5999,0,5999,5999,3200,2799,COD,Delivered
+AHS-1177,27-Jun-2024,1-Jul-2024,4,Modern Rug MD-208,Rugs,Modern Rugs,Faisalabad,Punjab,1,6999,0,6999,6999,4000,2999,COD,Delivered
+AHS-1178,27-Jun-2024,29-Jun-2024,2,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2999,0.1,2699,5398,3000,2398,COD,Delivered
+AHS-1179,27-Jun-2024,29-Jun-2024,2,Premium Bath Mat,Mats,Mats,Lahore,Punjab,1,1999,0.1,1799,1799,1000,799,COD,Delivered
+AHS-1180,28-Jun-2024,30-Jun-2024,2,Coco Blossom Bedsheet,Bedding,Bed Sheets,Multan,Punjab,1,2999,0.15,2549,2549,1500,1049,COD,Delivered
+AHS-1181,29-Jun-2024,30-Jun-2024,1,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,1,5999,0,5999,5999,3200,2799,Bank Transfer,Delivered
+AHS-1182,29-Jun-2024,3-Jul-2024,4,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Faisalabad,Punjab,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1183,29-Jun-2024,2-Jul-2024,3,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Faisalabad,Punjab,2,8999,0.15,7649,15298,11000,4298,COD,Delivered
+AHS-1184,29-Jun-2024,1-Jul-2024,2,Grey Blossom Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,2,2999,0.15,2549,5098,3000,2098,EasyPaisa,Delivered
+AHS-1185,29-Jun-2024,3-Jul-2024,4,Modern Rug MD-205,Rugs,Modern Rugs,Faisalabad,Punjab,2,8999,0.1,8099,16198,11000,5198,Bank Transfer,Delivered
+AHS-1186,30-Jun-2024,1-Jul-2024,1,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1187,30-Jun-2024,1-Jul-2024,1,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Islamabad,ICT,1,8999,0.1,8099,8099,5500,2599,EasyPaisa,Delivered
+AHS-1188,30-Jun-2024,1-Jul-2024,1,Nexus Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2650,0.1,2385,2385,1400,985,EasyPaisa,Delivered
+AHS-1189,30-Jun-2024,2-Jul-2024,2,Modern Rug MD-202,Rugs,Modern Rugs,Quetta,Balochistan,1,6999,0,6999,6999,4000,2999,COD,Delivered
+AHS-1190,30-Jun-2024,1-Jul-2024,1,Modern Rug MD-202,Rugs,Modern Rugs,Karachi,Sindh,2,6999,0,6999,13998,8000,5998,COD,Delivered
+AHS-1191,1-Jul-2024,3-Jul-2024,2,Serenity Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0.1,2385,2385,1400,985,COD,Delivered
+AHS-1192,2-Jul-2024,4-Jul-2024,2,Fleece Blanket Beige,Bedding,Blankets,Lahore,Punjab,2,3500,0.15,2975,5950,3600,2350,Bank Transfer,Delivered
+AHS-1193,3-Jul-2024,6-Jul-2024,3,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0,2999,2999,1500,1499,EasyPaisa,Delivered
+AHS-1194,3-Jul-2024,6-Jul-2024,3,Night Petals Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0,2999,2999,1500,1499,JazzCash,Delivered
+AHS-1195,4-Jul-2024,6-Jul-2024,2,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Karachi,Sindh,2,8999,0,8999,17998,11000,6998,Bank Transfer,Delivered
+AHS-1196,6-Jul-2024,11-Jul-2024,5,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,2,2999,0.15,2549,5098,3000,2098,COD,Delivered
+AHS-1197,6-Jul-2024,8-Jul-2024,2,Modern Rug MD-211,Rugs,Modern Rugs,Lahore,Punjab,1,8999,0,8999,8999,5500,3499,JazzCash,Delivered
+AHS-1198,7-Jul-2024,10-Jul-2024,3,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Karachi,Sindh,1,5999,0,5999,5999,3200,2799,COD,Delivered
+AHS-1199,7-Jul-2024,8-Jul-2024,1,Modern Rug MD-212,Rugs,Modern Rugs,Karachi,Sindh,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1200,8-Jul-2024,13-Jul-2024,5,Grey Blossom Bedsheet,Bedding,Bed Sheets,Multan,Punjab,2,2999,0.15,2549,5098,3000,2098,COD,Delivered
+AHS-1201,10-Jul-2024,15-Jul-2024,5,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,1,9999,0.1,8999,8999,6200,2799,Bank Transfer,Delivered
+AHS-1202,10-Jul-2024,12-Jul-2024,2,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Islamabad,ICT,1,5999,0.15,5099,5099,3200,1899,EasyPaisa,Delivered
+AHS-1203,10-Jul-2024,13-Jul-2024,3,Premium Bath Mat,Mats,Mats,Sialkot,Punjab,1,1999,0,1999,1999,1000,999,COD,Delivered
+AHS-1204,11-Jul-2024,13-Jul-2024,2,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Multan,Punjab,1,5999,0,5999,5999,3200,2799,EasyPaisa,Delivered
+AHS-1205,11-Jul-2024,14-Jul-2024,3,Modern Rug MD-212,Rugs,Modern Rugs,Peshawar,KPK,1,8999,0.15,7649,7649,5500,2149,JazzCash,Delivered
+AHS-1206,12-Jul-2024,14-Jul-2024,2,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Karachi,Sindh,2,11999,0.15,10199,20398,15000,5398,JazzCash,Delivered
+AHS-1207,12-Jul-2024,14-Jul-2024,2,Jingle Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2650,0,2650,2650,1400,1250,COD,Delivered
+AHS-1208,15-Jul-2024,20-Jul-2024,5,Silva Bedsheet,Bedding,Bed Sheets,Multan,Punjab,1,2650,0.15,2252,2252,1400,852,COD,Delivered
+AHS-1209,15-Jul-2024,18-Jul-2024,3,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2999,0.1,2699,2699,1500,1199,COD,Delivered
+AHS-1210,15-Jul-2024,17-Jul-2024,2,Night Petals Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,2,2999,0.1,2699,5398,3000,2398,COD,Delivered
+AHS-1211,15-Jul-2024,17-Jul-2024,2,Chestnut Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0.15,2549,2549,1500,1049,COD,Delivered
+AHS-1212,17-Jul-2024,20-Jul-2024,3,Modern Rug MD-213,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0,6999,6999,4000,2999,COD,Delivered
+AHS-1213,18-Jul-2024,19-Jul-2024,1,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.15,7649,7649,5500,2149,JazzCash,Delivered
+AHS-1214,18-Jul-2024,19-Jul-2024,1,Modern Rug MD-212,Rugs,Modern Rugs,Islamabad,ICT,2,8999,0.1,8099,16198,11000,5198,EasyPaisa,Delivered
+AHS-1215,19-Jul-2024,21-Jul-2024,2,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Sialkot,Punjab,1,9999,0,9999,9999,6200,3799,COD,Delivered
+AHS-1216,19-Jul-2024,22-Jul-2024,3,Kitchen Anti-Fatigue Mat,Mats,Mats,Faisalabad,Punjab,1,2499,0,2499,2499,1300,1199,EasyPaisa,Delivered
+AHS-1217,19-Jul-2024,24-Jul-2024,5,Modern Rug MD-205,Rugs,Modern Rugs,Sialkot,Punjab,1,8999,0,8999,8999,5500,3499,Bank Transfer,Delivered
+AHS-1218,19-Jul-2024,22-Jul-2024,3,Serenity Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2650,0,2650,2650,1400,1250,JazzCash,Delivered
+AHS-1219,20-Jul-2024,24-Jul-2024,4,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Sialkot,Punjab,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1220,21-Jul-2024,26-Jul-2024,5,Jingle Bedsheet,Bedding,Bed Sheets,Peshawar,KPK,1,2650,0,2650,2650,1400,1250,EasyPaisa,Delivered
+AHS-1221,25-Jul-2024,27-Jul-2024,2,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,9999,0.15,8499,8499,6200,2299,EasyPaisa,Delivered
+AHS-1222,25-Jul-2024,29-Jul-2024,4,Nexus Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2650,0.1,2385,2385,1400,985,COD,Delivered
+AHS-1223,25-Jul-2024,28-Jul-2024,3,Silva Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0,2650,2650,1400,1250,COD,Delivered
+AHS-1224,26-Jul-2024,28-Jul-2024,2,Modern Rug MD-202,Rugs,Modern Rugs,Lahore,Punjab,1,6999,0.2,5599,5599,4000,1599,JazzCash,Delivered
+AHS-1225,26-Jul-2024,27-Jul-2024,1,Jingle Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0,2650,2650,1400,1250,Bank Transfer,Delivered
+AHS-1226,27-Jul-2024,31-Jul-2024,4,Night Petals Bedsheet,Bedding,Bed Sheets,Multan,Punjab,1,2999,0.1,2699,2699,1500,1199,COD,Delivered
+AHS-1227,28-Jul-2024,30-Jul-2024,2,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,9999,0.1,8999,8999,6200,2799,JazzCash,Delivered
+AHS-1228,28-Jul-2024,31-Jul-2024,3,Modern Rug MD-202,Rugs,Modern Rugs,Faisalabad,Punjab,1,6999,0.1,6299,6299,4000,2299,Bank Transfer,Delivered
+AHS-1229,29-Jul-2024,31-Jul-2024,2,Chestnut Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0.1,2699,2699,1500,1199,COD,Delivered
+AHS-1230,29-Jul-2024,30-Jul-2024,1,Modern Rug MD-202,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0.15,5949,5949,4000,1949,COD,Cancelled
+AHS-1231,30-Jul-2024,1-Aug-2024,2,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2999,0.1,2699,5398,3000,2398,Bank Transfer,Delivered
+AHS-1232,30-Jul-2024,2-Aug-2024,3,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1233,1-Aug-2024,2-Aug-2024,1,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Islamabad,ICT,1,9999,0,9999,9999,6200,3799,EasyPaisa,Delivered
+AHS-1234,2-Aug-2024,3-Aug-2024,1,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Islamabad,ICT,1,9999,0.15,8499,8499,6200,2299,Bank Transfer,Delivered
+AHS-1235,2-Aug-2024,5-Aug-2024,3,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,3,2999,0.15,2549,7647,4500,3147,EasyPaisa,Delivered
+AHS-1236,2-Aug-2024,3-Aug-2024,1,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1237,2-Aug-2024,4-Aug-2024,2,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Rawalpindi,Punjab,1,2099,0.28,1511,1511,1100,411,JazzCash,Delivered
+AHS-1238,3-Aug-2024,6-Aug-2024,3,Chestnut Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2999,0,2999,2999,1500,1499,COD,Returned
+AHS-1239,3-Aug-2024,7-Aug-2024,4,Fleece Blanket Beige,Bedding,Blankets,Multan,Punjab,1,3500,0.1,3150,3150,1800,1350,COD,Delivered
+AHS-1240,3-Aug-2024,6-Aug-2024,3,Modern Rug MD-213,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0.1,6299,6299,4000,2299,COD,Delivered
+AHS-1241,4-Aug-2024,8-Aug-2024,4,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Multan,Punjab,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1242,4-Aug-2024,8-Aug-2024,4,Chestnut Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Faisalabad,Punjab,1,5999,0.1,5399,5399,3200,2199,Bank Transfer,Delivered
+AHS-1243,4-Aug-2024,5-Aug-2024,1,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Lahore,Punjab,2,8999,0.15,7649,15298,11000,4298,COD,Delivered
+AHS-1244,8-Aug-2024,11-Aug-2024,3,Coco Blossom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1245,9-Aug-2024,11-Aug-2024,2,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Faisalabad,Punjab,2,8999,0.28,6479,12958,11000,1958,COD,Delivered
+AHS-1246,9-Aug-2024,11-Aug-2024,2,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1247,10-Aug-2024,12-Aug-2024,2,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Karachi,Sindh,2,8999,0,8999,17998,11000,6998,Bank Transfer,Delivered
+AHS-1248,10-Aug-2024,12-Aug-2024,2,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Faisalabad,Punjab,1,5999,0.1,5399,5399,3200,2199,COD,Delivered
+AHS-1249,11-Aug-2024,13-Aug-2024,2,Nexus Bedsheet,Bedding,Bed Sheets,Hyderabad,Sindh,1,2650,0.28,1908,1908,1400,508,COD,Delivered
+AHS-1250,11-Aug-2024,12-Aug-2024,1,Fleece Blanket Beige,Bedding,Blankets,Lahore,Punjab,2,3500,0.15,2975,5950,3600,2350,COD,Delivered
+AHS-1251,11-Aug-2024,12-Aug-2024,1,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,11999,0,11999,11999,7500,4499,COD,Delivered
+AHS-1252,11-Aug-2024,14-Aug-2024,3,Premium Bath Mat,Mats,Mats,Islamabad,ICT,1,1999,0,1999,1999,1000,999,COD,Delivered
+AHS-1253,11-Aug-2024,15-Aug-2024,4,Fleece Blanket Grey,Bedding,Blankets,Multan,Punjab,1,3500,0.1,3150,3150,1800,1350,COD,Delivered
+AHS-1254,12-Aug-2024,13-Aug-2024,1,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Islamabad,ICT,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1255,12-Aug-2024,15-Aug-2024,3,Serenity Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,2,2650,0.15,2252,4504,2800,1704,COD,Delivered
+AHS-1256,12-Aug-2024,14-Aug-2024,2,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0,2999,2999,1500,1499,Bank Transfer,Cancelled
+AHS-1257,12-Aug-2024,13-Aug-2024,1,Kitchen Anti-Fatigue Mat,Mats,Mats,Lahore,Punjab,2,2499,0.1,2249,4498,2600,1898,COD,Delivered
+AHS-1258,13-Aug-2024,16-Aug-2024,3,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,9999,0.1,8999,8999,6200,2799,EasyPaisa,Delivered
+AHS-1259,13-Aug-2024,14-Aug-2024,1,Mosaic Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2650,0.15,2252,2252,1400,852,Bank Transfer,Cancelled
+AHS-1260,14-Aug-2024,15-Aug-2024,1,Jingle Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2650,0.1,2385,2385,1400,985,EasyPaisa,Delivered
+AHS-1261,14-Aug-2024,15-Aug-2024,1,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Karachi,Sindh,3,5999,0,5999,17997,9600,8397,COD,Delivered
+AHS-1262,14-Aug-2024,16-Aug-2024,2,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,1,8999,0.15,7649,7649,5500,2149,EasyPaisa,Delivered
+AHS-1263,14-Aug-2024,15-Aug-2024,1,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2999,0.28,2159,2159,1500,659,COD,Delivered
+AHS-1264,14-Aug-2024,18-Aug-2024,4,Modern Rug MD-205,Rugs,Modern Rugs,Quetta,Balochistan,1,8999,0,8999,8999,5500,3499,Bank Transfer,Delivered
+AHS-1265,15-Aug-2024,17-Aug-2024,2,Modern Rug MD-207,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0.1,6299,6299,4000,2299,JazzCash,Delivered
+AHS-1266,15-Aug-2024,19-Aug-2024,4,Fleece Blanket Beige,Bedding,Blankets,Rawalpindi,Punjab,1,3500,0.1,3150,3150,1800,1350,Bank Transfer,Delivered
+AHS-1267,15-Aug-2024,16-Aug-2024,1,Fleece Blanket Beige,Bedding,Blankets,Karachi,Sindh,1,3500,0,3500,3500,1800,1700,EasyPaisa,Cancelled
+AHS-1268,15-Aug-2024,18-Aug-2024,3,Fleece Blanket Beige,Bedding,Blankets,Karachi,Sindh,3,3500,0,3500,10500,5400,5100,Bank Transfer,Delivered
+AHS-1269,15-Aug-2024,16-Aug-2024,1,Modern Rug MD-207,Rugs,Modern Rugs,Karachi,Sindh,2,6999,0,6999,13998,8000,5998,COD,Delivered
+AHS-1270,17-Aug-2024,18-Aug-2024,1,Kitchen Anti-Fatigue Mat,Mats,Mats,Karachi,Sindh,1,2499,0.2,1999,1999,1300,699,COD,Delivered
+AHS-1271,18-Aug-2024,19-Aug-2024,1,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,8999,0.15,7649,7649,5500,2149,JazzCash,Delivered
+AHS-1272,18-Aug-2024,22-Aug-2024,4,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,2,8999,0.1,8099,16198,11000,5198,EasyPaisa,Delivered
+AHS-1273,18-Aug-2024,21-Aug-2024,3,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1274,18-Aug-2024,23-Aug-2024,5,Serenity Bedsheet,Bedding,Bed Sheets,Quetta,Balochistan,1,2650,0.2,2120,2120,1400,720,JazzCash,Delivered
+AHS-1275,19-Aug-2024,21-Aug-2024,2,Modern Rug MD-208,Rugs,Modern Rugs,Karachi,Sindh,2,6999,0.2,5599,11198,8000,3198,COD,Delivered
+AHS-1276,19-Aug-2024,22-Aug-2024,3,Premium Bath Mat,Mats,Mats,Islamabad,ICT,3,1999,0,1999,5997,3000,2997,Bank Transfer,Delivered
+AHS-1277,20-Aug-2024,24-Aug-2024,4,Modern Rug MD-208,Rugs,Modern Rugs,Peshawar,KPK,1,6999,0.1,6299,6299,4000,2299,EasyPaisa,Delivered
+AHS-1278,20-Aug-2024,24-Aug-2024,4,Coco Blossom Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2999,0.15,2549,2549,1500,1049,COD,Delivered
+AHS-1279,20-Aug-2024,25-Aug-2024,5,Premium Bath Mat,Mats,Mats,Rawalpindi,Punjab,1,1999,0.1,1799,1799,1000,799,COD,Delivered
+AHS-1280,20-Aug-2024,21-Aug-2024,1,Modern Rug MD-211,Rugs,Modern Rugs,Lahore,Punjab,1,8999,0,8999,8999,5500,3499,COD,Cancelled
+AHS-1281,21-Aug-2024,24-Aug-2024,3,Opal Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0.15,2252,2252,1400,852,COD,Returned
+AHS-1282,22-Aug-2024,24-Aug-2024,2,Premium Bath Mat,Mats,Mats,Karachi,Sindh,1,1999,0.15,1699,1699,1000,699,COD,Delivered
+AHS-1283,22-Aug-2024,23-Aug-2024,1,Coco Blossom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0.2,2399,2399,1500,899,COD,Delivered
+AHS-1284,22-Aug-2024,25-Aug-2024,3,Fleece Blanket Beige,Bedding,Blankets,Lahore,Punjab,1,3500,0.28,2520,2520,1800,720,COD,Delivered
+AHS-1285,23-Aug-2024,24-Aug-2024,1,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,9999,0.1,8999,8999,6200,2799,Bank Transfer,Delivered
+AHS-1286,24-Aug-2024,28-Aug-2024,4,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Rawalpindi,Punjab,1,5999,0.15,5099,5099,3200,1899,COD,Delivered
+AHS-1287,24-Aug-2024,27-Aug-2024,3,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Quetta,Balochistan,1,2999,0.15,2549,2549,1500,1049,COD,Delivered
+AHS-1288,26-Aug-2024,27-Aug-2024,1,Coco Blossom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0,2999,2999,1500,1499,Bank Transfer,Delivered
+AHS-1289,27-Aug-2024,30-Aug-2024,3,Modern Rug MD-211,Rugs,Modern Rugs,Lahore,Punjab,1,8999,0,8999,8999,5500,3499,Bank Transfer,Delivered
+AHS-1290,27-Aug-2024,30-Aug-2024,3,Modern Rug MD-205,Rugs,Modern Rugs,Rawalpindi,Punjab,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1291,29-Aug-2024,30-Aug-2024,1,Kitchen Anti-Fatigue Mat,Mats,Mats,Karachi,Sindh,1,2499,0.15,2124,2124,1300,824,COD,Delivered
+AHS-1292,29-Aug-2024,1-Sep-2024,3,Modern Rug MD-207,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0.15,5949,5949,4000,1949,JazzCash,Delivered
+AHS-1293,29-Aug-2024,30-Aug-2024,1,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Lahore,Punjab,2,8999,0.1,8099,16198,11000,5198,COD,Delivered
+AHS-1294,29-Aug-2024,30-Aug-2024,1,Modern Rug MD-213,Rugs,Modern Rugs,Karachi,Sindh,2,6999,0,6999,13998,8000,5998,COD,Cancelled
+AHS-1295,30-Aug-2024,4-Sep-2024,5,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Multan,Punjab,2,5999,0.28,4319,8638,6400,2238,Bank Transfer,Delivered
+AHS-1296,30-Aug-2024,2-Sep-2024,3,Modern Rug MD-213,Rugs,Modern Rugs,Lahore,Punjab,1,6999,0.1,6299,6299,4000,2299,COD,Delivered
+AHS-1297,30-Aug-2024,31-Aug-2024,1,Chestnut Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0.1,2699,2699,1500,1199,EasyPaisa,Returned
+AHS-1298,31-Aug-2024,1-Sep-2024,1,Chestnut Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Karachi,Sindh,1,5999,0.1,5399,5399,3200,2199,EasyPaisa,Delivered
+AHS-1299,31-Aug-2024,3-Sep-2024,3,Serenity Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2650,0,2650,2650,1400,1250,COD,Delivered
+AHS-1300,31-Aug-2024,2-Sep-2024,2,Fleece Blanket Beige,Bedding,Blankets,Karachi,Sindh,2,3500,0.1,3150,6300,3600,2700,EasyPaisa,Delivered
+AHS-1301,31-Aug-2024,1-Sep-2024,1,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,1,5999,0.15,5099,5099,3200,1899,COD,Delivered
+AHS-1302,1-Sep-2024,6-Sep-2024,5,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Hyderabad,Sindh,2,2099,0.2,1679,3358,2200,1158,COD,Delivered
+AHS-1303,2-Sep-2024,7-Sep-2024,5,Jingle Bedsheet,Bedding,Bed Sheets,Sialkot,Punjab,3,2650,0.15,2252,6756,4200,2556,COD,Delivered
+AHS-1304,5-Sep-2024,7-Sep-2024,2,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.15,7649,7649,5500,2149,EasyPaisa,Delivered
+AHS-1305,5-Sep-2024,8-Sep-2024,3,Night Petals Bedsheet,Bedding,Bed Sheets,Multan,Punjab,2,2999,0.1,2699,5398,3000,2398,Bank Transfer,Returned
+AHS-1306,5-Sep-2024,6-Sep-2024,1,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,9999,0.1,8999,8999,6200,2799,EasyPaisa,Delivered
+AHS-1307,5-Sep-2024,7-Sep-2024,2,Modern Rug MD-213,Rugs,Modern Rugs,Faisalabad,Punjab,1,6999,0,6999,6999,4000,2999,Bank Transfer,Delivered
+AHS-1308,6-Sep-2024,10-Sep-2024,4,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Multan,Punjab,1,5999,0.15,5099,5099,3200,1899,COD,Delivered
+AHS-1309,6-Sep-2024,11-Sep-2024,5,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Hyderabad,Sindh,1,8999,0.2,7199,7199,5500,1699,COD,Returned
+AHS-1310,7-Sep-2024,11-Sep-2024,4,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Rawalpindi,Punjab,2,5999,0,5999,11998,6400,5598,COD,Delivered
+AHS-1311,8-Sep-2024,10-Sep-2024,2,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,9999,0,9999,9999,6200,3799,EasyPaisa,Delivered
+AHS-1312,9-Sep-2024,13-Sep-2024,4,Silva Bedsheet,Bedding,Bed Sheets,Multan,Punjab,2,2650,0.15,2252,4504,2800,1704,COD,Delivered
+AHS-1313,9-Sep-2024,12-Sep-2024,3,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Karachi,Sindh,2,8999,0.15,7649,15298,11000,4298,Bank Transfer,Delivered
+AHS-1314,9-Sep-2024,12-Sep-2024,3,Kitchen Anti-Fatigue Mat,Mats,Mats,Faisalabad,Punjab,1,2499,0,2499,2499,1300,1199,Bank Transfer,Delivered
+AHS-1315,10-Sep-2024,13-Sep-2024,3,Modern Rug MD-208,Rugs,Modern Rugs,Islamabad,ICT,3,6999,0,6999,20997,12000,8997,COD,Delivered
+AHS-1316,10-Sep-2024,11-Sep-2024,1,Modern Rug MD-208,Rugs,Modern Rugs,Lahore,Punjab,2,6999,0,6999,13998,8000,5998,COD,Delivered
+AHS-1317,10-Sep-2024,12-Sep-2024,2,Modern Rug MD-213,Rugs,Modern Rugs,Sialkot,Punjab,3,6999,0.1,6299,18897,12000,6897,COD,Delivered
+AHS-1318,10-Sep-2024,13-Sep-2024,3,Opal Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2650,0,2650,5300,2800,2500,COD,Delivered
+AHS-1319,11-Sep-2024,13-Sep-2024,2,Modern Rug MD-205,Rugs,Modern Rugs,Lahore,Punjab,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1320,11-Sep-2024,13-Sep-2024,2,Mosaic Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0,2650,2650,1400,1250,COD,Delivered
+AHS-1321,12-Sep-2024,13-Sep-2024,1,Mosaic Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2650,0.1,2385,2385,1400,985,COD,Returned
+AHS-1322,13-Sep-2024,15-Sep-2024,2,Modern Rug MD-212,Rugs,Modern Rugs,Karachi,Sindh,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1323,13-Sep-2024,16-Sep-2024,3,Nexus Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2650,0.1,2385,2385,1400,985,COD,Cancelled
+AHS-1324,13-Sep-2024,18-Sep-2024,5,Nexus Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,2,2650,0.15,2252,4504,2800,1704,COD,Delivered
+AHS-1325,14-Sep-2024,18-Sep-2024,4,Jingle Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,2,2650,0,2650,5300,2800,2500,Bank Transfer,Delivered
+AHS-1326,15-Sep-2024,20-Sep-2024,5,Premium Bath Mat,Mats,Mats,Sialkot,Punjab,3,1999,0.2,1599,4797,3000,1797,COD,Delivered
+AHS-1327,16-Sep-2024,17-Sep-2024,1,Fleece Blanket Grey,Bedding,Blankets,Karachi,Sindh,1,3500,0.2,2800,2800,1800,1000,Bank Transfer,Delivered
+AHS-1328,16-Sep-2024,21-Sep-2024,5,Grey Blossom Bedsheet,Bedding,Bed Sheets,Quetta,Balochistan,1,2999,0.28,2159,2159,1500,659,EasyPaisa,Delivered
+AHS-1329,17-Sep-2024,20-Sep-2024,3,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0.1,2699,2699,1500,1199,Bank Transfer,Delivered
+AHS-1330,17-Sep-2024,20-Sep-2024,3,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Lahore,Punjab,2,8999,0.15,7649,15298,11000,4298,COD,Delivered
+AHS-1331,17-Sep-2024,20-Sep-2024,3,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.15,7649,7649,5500,2149,EasyPaisa,Delivered
+AHS-1332,17-Sep-2024,20-Sep-2024,3,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Hyderabad,Sindh,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1333,18-Sep-2024,21-Sep-2024,3,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Islamabad,ICT,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1334,18-Sep-2024,21-Sep-2024,3,Fleece Blanket Beige,Bedding,Blankets,Multan,Punjab,2,3500,0,3500,7000,3600,3400,Bank Transfer,Delivered
+AHS-1335,19-Sep-2024,21-Sep-2024,2,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,9999,0,9999,9999,6200,3799,COD,Delivered
+AHS-1336,19-Sep-2024,20-Sep-2024,1,Silva Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0.1,2385,2385,1400,985,COD,Delivered
+AHS-1337,19-Sep-2024,21-Sep-2024,2,Nexus Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2650,0.1,2385,2385,1400,985,COD,Delivered
+AHS-1338,19-Sep-2024,22-Sep-2024,3,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,8999,0.2,7199,7199,5500,1699,JazzCash,Delivered
+AHS-1339,19-Sep-2024,20-Sep-2024,1,Modern Rug MD-212,Rugs,Modern Rugs,Karachi,Sindh,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1340,20-Sep-2024,21-Sep-2024,1,Coco Blossom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0.1,2699,2699,1500,1199,COD,Delivered
+AHS-1341,20-Sep-2024,22-Sep-2024,2,Modern Rug MD-208,Rugs,Modern Rugs,Islamabad,ICT,1,6999,0,6999,6999,4000,2999,JazzCash,Delivered
+AHS-1342,22-Sep-2024,25-Sep-2024,3,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Multan,Punjab,1,9999,0,9999,9999,6200,3799,EasyPaisa,Delivered
+AHS-1343,22-Sep-2024,24-Sep-2024,2,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Lahore,Punjab,3,8999,0,8999,26997,16500,10497,JazzCash,Delivered
+AHS-1344,22-Sep-2024,26-Sep-2024,4,Fleece Blanket Beige,Bedding,Blankets,Faisalabad,Punjab,1,3500,0.28,2520,2520,1800,720,COD,Delivered
+AHS-1345,23-Sep-2024,26-Sep-2024,3,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Lahore,Punjab,3,8999,0,8999,26997,16500,10497,COD,Cancelled
+AHS-1346,23-Sep-2024,25-Sep-2024,2,Mosaic Bedsheet,Bedding,Bed Sheets,Hyderabad,Sindh,1,2650,0.15,2252,2252,1400,852,COD,Delivered
+AHS-1347,23-Sep-2024,28-Sep-2024,5,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1348,23-Sep-2024,26-Sep-2024,3,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Karachi,Sindh,3,9999,0.1,8999,26997,18600,8397,COD,Delivered
+AHS-1349,24-Sep-2024,27-Sep-2024,3,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Islamabad,ICT,2,8999,0,8999,17998,11000,6998,COD,Delivered
+AHS-1350,24-Sep-2024,27-Sep-2024,3,Nexus Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0.15,2252,2252,1400,852,Bank Transfer,Delivered
+AHS-1351,26-Sep-2024,29-Sep-2024,3,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Hyderabad,Sindh,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1352,26-Sep-2024,1-Oct-2024,5,Modern Rug MD-211,Rugs,Modern Rugs,Faisalabad,Punjab,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1353,26-Sep-2024,28-Sep-2024,2,Kitchen Anti-Fatigue Mat,Mats,Mats,Rawalpindi,Punjab,1,2499,0.28,1799,1799,1300,499,COD,Delivered
+AHS-1354,26-Sep-2024,1-Oct-2024,5,Chestnut Bedsheet,Bedding,Bed Sheets,Multan,Punjab,2,2999,0,2999,5998,3000,2998,EasyPaisa,Delivered
+AHS-1355,26-Sep-2024,29-Sep-2024,3,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1356,26-Sep-2024,29-Sep-2024,3,Chestnut Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0,2999,2999,1500,1499,JazzCash,Delivered
+AHS-1357,26-Sep-2024,28-Sep-2024,2,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Islamabad,ICT,1,5999,0,5999,5999,3200,2799,COD,Delivered
+AHS-1358,26-Sep-2024,28-Sep-2024,2,Grey Blossom Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0,2999,2999,1500,1499,EasyPaisa,Delivered
+AHS-1359,27-Sep-2024,28-Sep-2024,1,Kitchen Anti-Fatigue Mat,Mats,Mats,Lahore,Punjab,1,2499,0,2499,2499,1300,1199,Bank Transfer,Delivered
+AHS-1360,28-Sep-2024,30-Sep-2024,2,Premium Bath Mat,Mats,Mats,Karachi,Sindh,2,1999,0,1999,3998,2000,1998,COD,Delivered
+AHS-1361,28-Sep-2024,30-Sep-2024,2,Modern Rug MD-208,Rugs,Modern Rugs,Islamabad,ICT,1,6999,0.1,6299,6299,4000,2299,Bank Transfer,Delivered
+AHS-1362,29-Sep-2024,1-Oct-2024,2,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Multan,Punjab,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1363,29-Sep-2024,1-Oct-2024,2,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1364,1-Oct-2024,4-Oct-2024,3,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Islamabad,ICT,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1365,1-Oct-2024,2-Oct-2024,1,Grey Blossom Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1366,1-Oct-2024,6-Oct-2024,5,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Hyderabad,Sindh,1,8999,0,8999,8999,5500,3499,Bank Transfer,Delivered
+AHS-1367,1-Oct-2024,3-Oct-2024,2,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1368,2-Oct-2024,5-Oct-2024,3,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,1,5999,0.1,5399,5399,3200,2199,COD,Delivered
+AHS-1369,2-Oct-2024,4-Oct-2024,2,Modern Rug MD-208,Rugs,Modern Rugs,Islamabad,ICT,1,6999,0,6999,6999,4000,2999,EasyPaisa,Delivered
+AHS-1370,2-Oct-2024,4-Oct-2024,2,Modern Rug MD-213,Rugs,Modern Rugs,Multan,Punjab,1,6999,0.15,5949,5949,4000,1949,JazzCash,Delivered
+AHS-1371,5-Oct-2024,7-Oct-2024,2,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,3,5999,0.1,5399,16197,9600,6597,EasyPaisa,Delivered
+AHS-1372,5-Oct-2024,10-Oct-2024,5,Chestnut Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2999,0.15,2549,2549,1500,1049,COD,Delivered
+AHS-1373,5-Oct-2024,8-Oct-2024,3,Coco Blossom Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,2,2999,0.15,2549,5098,3000,2098,Bank Transfer,Delivered
+AHS-1374,6-Oct-2024,9-Oct-2024,3,Fleece Blanket Grey,Bedding,Blankets,Islamabad,ICT,1,3500,0.28,2520,2520,1800,720,Bank Transfer,Delivered
+AHS-1375,7-Oct-2024,10-Oct-2024,3,Silva Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,2,2650,0.1,2385,4770,2800,1970,COD,Delivered
+AHS-1376,7-Oct-2024,12-Oct-2024,5,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1377,8-Oct-2024,9-Oct-2024,1,Modern Rug MD-208,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0.1,6299,6299,4000,2299,COD,Delivered
+AHS-1378,8-Oct-2024,10-Oct-2024,2,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Islamabad,ICT,1,8999,0.2,7199,7199,5500,1699,JazzCash,Delivered
+AHS-1379,8-Oct-2024,11-Oct-2024,3,Kitchen Anti-Fatigue Mat,Mats,Mats,Karachi,Sindh,2,2499,0.15,2124,4248,2600,1648,COD,Delivered
+AHS-1380,9-Oct-2024,14-Oct-2024,5,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Peshawar,KPK,2,8999,0,8999,17998,11000,6998,EasyPaisa,Returned
+AHS-1381,9-Oct-2024,11-Oct-2024,2,Fleece Blanket Grey,Bedding,Blankets,Lahore,Punjab,1,3500,0.1,3150,3150,1800,1350,EasyPaisa,Delivered
+AHS-1382,9-Oct-2024,10-Oct-2024,1,Jingle Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0.15,2252,2252,1400,852,JazzCash,Delivered
+AHS-1383,9-Oct-2024,12-Oct-2024,3,Modern Rug MD-202,Rugs,Modern Rugs,Lahore,Punjab,3,6999,0.1,6299,18897,12000,6897,JazzCash,Cancelled
+AHS-1384,9-Oct-2024,11-Oct-2024,2,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Karachi,Sindh,3,8999,0,8999,26997,16500,10497,COD,Delivered
+AHS-1385,10-Oct-2024,11-Oct-2024,1,Coco Blossom Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0.15,2549,2549,1500,1049,COD,Delivered
+AHS-1386,10-Oct-2024,11-Oct-2024,1,Silva Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0,2650,2650,1400,1250,Bank Transfer,Delivered
+AHS-1387,11-Oct-2024,13-Oct-2024,2,Opal Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,2,2650,0.28,1908,3816,2800,1016,COD,Delivered
+AHS-1388,11-Oct-2024,12-Oct-2024,1,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,2,5999,0,5999,11998,6400,5598,EasyPaisa,Delivered
+AHS-1389,11-Oct-2024,13-Oct-2024,2,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Faisalabad,Punjab,2,9999,0,9999,19998,12400,7598,COD,Cancelled
+AHS-1390,12-Oct-2024,15-Oct-2024,3,Coco Blossom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2999,0.1,2699,5398,3000,2398,COD,Delivered
+AHS-1391,12-Oct-2024,17-Oct-2024,5,Modern Rug MD-202,Rugs,Modern Rugs,Peshawar,KPK,1,6999,0,6999,6999,4000,2999,Bank Transfer,Delivered
+AHS-1392,15-Oct-2024,19-Oct-2024,4,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Hyderabad,Sindh,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1393,16-Oct-2024,21-Oct-2024,5,Mosaic Bedsheet,Bedding,Bed Sheets,Multan,Punjab,1,2650,0,2650,2650,1400,1250,COD,Delivered
+AHS-1394,17-Oct-2024,20-Oct-2024,3,Fleece Blanket Beige,Bedding,Blankets,Rawalpindi,Punjab,2,3500,0.15,2975,5950,3600,2350,COD,Delivered
+AHS-1395,17-Oct-2024,21-Oct-2024,4,Modern Rug MD-208,Rugs,Modern Rugs,Rawalpindi,Punjab,1,6999,0.2,5599,5599,4000,1599,COD,Delivered
+AHS-1396,17-Oct-2024,19-Oct-2024,2,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2999,0.1,2699,5398,3000,2398,COD,Delivered
+AHS-1397,18-Oct-2024,20-Oct-2024,2,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1398,20-Oct-2024,23-Oct-2024,3,Modern Rug MD-211,Rugs,Modern Rugs,Lahore,Punjab,2,8999,0.15,7649,15298,11000,4298,COD,Delivered
+AHS-1399,21-Oct-2024,22-Oct-2024,1,Modern Rug MD-213,Rugs,Modern Rugs,Islamabad,ICT,1,6999,0,6999,6999,4000,2999,JazzCash,Delivered
+AHS-1400,23-Oct-2024,25-Oct-2024,2,Modern Rug MD-213,Rugs,Modern Rugs,Lahore,Punjab,1,6999,0.15,5949,5949,4000,1949,Bank Transfer,Delivered
+AHS-1401,24-Oct-2024,29-Oct-2024,5,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Faisalabad,Punjab,2,11999,0,11999,23998,15000,8998,COD,Delivered
+AHS-1402,24-Oct-2024,27-Oct-2024,3,Jingle Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2650,0.15,2252,4504,2800,1704,Bank Transfer,Delivered
+AHS-1403,26-Oct-2024,27-Oct-2024,1,Opal Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,3,2650,0.1,2385,7155,4200,2955,Bank Transfer,Delivered
+AHS-1404,26-Oct-2024,27-Oct-2024,1,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Karachi,Sindh,2,9999,0,9999,19998,12400,7598,EasyPaisa,Delivered
+AHS-1405,27-Oct-2024,29-Oct-2024,2,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Multan,Punjab,1,8999,0,8999,8999,5500,3499,Bank Transfer,Delivered
+AHS-1406,27-Oct-2024,29-Oct-2024,2,Modern Rug MD-208,Rugs,Modern Rugs,Lahore,Punjab,1,6999,0.1,6299,6299,4000,2299,COD,Delivered
+AHS-1407,28-Oct-2024,30-Oct-2024,2,Silva Bedsheet,Bedding,Bed Sheets,Peshawar,KPK,1,2650,0,2650,2650,1400,1250,COD,Delivered
+AHS-1408,28-Oct-2024,29-Oct-2024,1,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Karachi,Sindh,1,5999,0.2,4799,4799,3200,1599,JazzCash,Delivered
+AHS-1409,28-Oct-2024,1-Nov-2024,4,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Multan,Punjab,2,2099,0.15,1784,3568,2200,1368,COD,Delivered
+AHS-1410,29-Oct-2024,1-Nov-2024,3,Fleece Blanket Grey,Bedding,Blankets,Multan,Punjab,1,3500,0,3500,3500,1800,1700,COD,Delivered
+AHS-1411,30-Oct-2024,3-Nov-2024,4,Modern Rug MD-212,Rugs,Modern Rugs,Sialkot,Punjab,3,8999,0,8999,26997,16500,10497,COD,Delivered
+AHS-1412,30-Oct-2024,2-Nov-2024,3,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0,8999,8999,5500,3499,EasyPaisa,Delivered
+AHS-1413,31-Oct-2024,3-Nov-2024,3,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,1,5999,0.1,5399,5399,3200,2199,COD,Delivered
+AHS-1414,31-Oct-2024,3-Nov-2024,3,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Karachi,Sindh,3,5999,0,5999,17997,9600,8397,Bank Transfer,Delivered
+AHS-1415,1-Nov-2024,3-Nov-2024,2,Opal Bedsheet,Bedding,Bed Sheets,Hyderabad,Sindh,1,2650,0.15,2252,2252,1400,852,Bank Transfer,Delivered
+AHS-1416,1-Nov-2024,4-Nov-2024,3,Chestnut Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Islamabad,ICT,1,5999,0.1,5399,5399,3200,2199,JazzCash,Delivered
+AHS-1417,1-Nov-2024,3-Nov-2024,2,Fleece Blanket Grey,Bedding,Blankets,Karachi,Sindh,3,3500,0.2,2800,8400,5400,3000,Bank Transfer,Delivered
+AHS-1418,1-Nov-2024,3-Nov-2024,2,Modern Rug MD-205,Rugs,Modern Rugs,Sialkot,Punjab,1,8999,0,8999,8999,5500,3499,EasyPaisa,Delivered
+AHS-1419,2-Nov-2024,4-Nov-2024,2,Kitchen Anti-Fatigue Mat,Mats,Mats,Islamabad,ICT,1,2499,0.28,1799,1799,1300,499,COD,Delivered
+AHS-1420,3-Nov-2024,6-Nov-2024,3,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,2,8999,0,8999,17998,11000,6998,COD,Delivered
+AHS-1421,3-Nov-2024,8-Nov-2024,5,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1422,4-Nov-2024,5-Nov-2024,1,Chestnut Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,3,2999,0,2999,8997,4500,4497,COD,Delivered
+AHS-1423,5-Nov-2024,7-Nov-2024,2,Nexus Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0.15,2252,2252,1400,852,COD,Delivered
+AHS-1424,6-Nov-2024,8-Nov-2024,2,Night Petals Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0,2999,2999,1500,1499,Bank Transfer,Delivered
+AHS-1425,7-Nov-2024,9-Nov-2024,2,Grey Blossom Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0.1,2699,2699,1500,1199,COD,Delivered
+AHS-1426,7-Nov-2024,10-Nov-2024,3,Silva Bedsheet,Bedding,Bed Sheets,Multan,Punjab,1,2650,0,2650,2650,1400,1250,JazzCash,Delivered
+AHS-1427,7-Nov-2024,11-Nov-2024,4,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Multan,Punjab,1,5999,0.1,5399,5399,3200,2199,Bank Transfer,Delivered
+AHS-1428,7-Nov-2024,9-Nov-2024,2,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0.2,2399,2399,1500,899,COD,Delivered
+AHS-1429,7-Nov-2024,9-Nov-2024,2,Chestnut Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0,2999,2999,1500,1499,EasyPaisa,Delivered
+AHS-1430,8-Nov-2024,10-Nov-2024,2,Modern Rug MD-208,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0,6999,6999,4000,2999,COD,Delivered
+AHS-1431,8-Nov-2024,13-Nov-2024,5,Modern Rug MD-202,Rugs,Modern Rugs,Peshawar,KPK,1,6999,0.1,6299,6299,4000,2299,COD,Delivered
+AHS-1432,8-Nov-2024,11-Nov-2024,3,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Lahore,Punjab,1,2099,0,2099,2099,1100,999,Bank Transfer,Delivered
+AHS-1433,8-Nov-2024,12-Nov-2024,4,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Rawalpindi,Punjab,2,5999,0.15,5099,10198,6400,3798,EasyPaisa,Cancelled
+AHS-1434,9-Nov-2024,10-Nov-2024,1,Modern Rug MD-207,Rugs,Modern Rugs,Islamabad,ICT,1,6999,0.2,5599,5599,4000,1599,COD,Delivered
+AHS-1435,9-Nov-2024,11-Nov-2024,2,Mosaic Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2650,0.2,2120,2120,1400,720,COD,Delivered
+AHS-1436,10-Nov-2024,11-Nov-2024,1,Modern Rug MD-212,Rugs,Modern Rugs,Lahore,Punjab,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1437,10-Nov-2024,13-Nov-2024,3,Fleece Blanket Grey,Bedding,Blankets,Islamabad,ICT,2,3500,0.15,2975,5950,3600,2350,JazzCash,Delivered
+AHS-1438,10-Nov-2024,13-Nov-2024,3,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Lahore,Punjab,2,9999,0.15,8499,16998,12400,4598,Bank Transfer,Delivered
+AHS-1439,10-Nov-2024,13-Nov-2024,3,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Quetta,Balochistan,1,8999,0.15,7649,7649,5500,2149,Bank Transfer,Returned
+AHS-1440,11-Nov-2024,12-Nov-2024,1,Modern Rug MD-208,Rugs,Modern Rugs,Islamabad,ICT,1,6999,0,6999,6999,4000,2999,Bank Transfer,Delivered
+AHS-1441,12-Nov-2024,13-Nov-2024,1,Modern Rug MD-212,Rugs,Modern Rugs,Lahore,Punjab,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1442,13-Nov-2024,16-Nov-2024,3,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1443,14-Nov-2024,18-Nov-2024,4,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Hyderabad,Sindh,1,9999,0.2,7999,7999,6200,1799,COD,Delivered
+AHS-1444,14-Nov-2024,17-Nov-2024,3,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.2,7199,7199,5500,1699,JazzCash,Delivered
+AHS-1445,15-Nov-2024,16-Nov-2024,1,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Karachi,Sindh,3,8999,0.15,7649,22947,16500,6447,EasyPaisa,Delivered
+AHS-1446,15-Nov-2024,17-Nov-2024,2,Kitchen Anti-Fatigue Mat,Mats,Mats,Multan,Punjab,1,2499,0.15,2124,2124,1300,824,COD,Delivered
+AHS-1447,15-Nov-2024,18-Nov-2024,3,Premium Bath Mat,Mats,Mats,Lahore,Punjab,3,1999,0.28,1439,4317,3000,1317,Bank Transfer,Delivered
+AHS-1448,16-Nov-2024,20-Nov-2024,4,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Rawalpindi,Punjab,1,5999,0.1,5399,5399,3200,2199,COD,Delivered
+AHS-1449,16-Nov-2024,18-Nov-2024,2,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Karachi,Sindh,2,8999,0,8999,17998,11000,6998,Bank Transfer,Delivered
+AHS-1450,16-Nov-2024,19-Nov-2024,3,Modern Rug MD-202,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0.15,5949,5949,4000,1949,EasyPaisa,Delivered
+AHS-1451,16-Nov-2024,18-Nov-2024,2,Opal Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0.1,2385,2385,1400,985,COD,Delivered
+AHS-1452,17-Nov-2024,20-Nov-2024,3,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Islamabad,ICT,1,8999,0.1,8099,8099,5500,2599,Bank Transfer,Delivered
+AHS-1453,17-Nov-2024,18-Nov-2024,1,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Karachi,Sindh,1,5999,0.15,5099,5099,3200,1899,COD,Delivered
+AHS-1454,17-Nov-2024,18-Nov-2024,1,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2999,0,2999,5998,3000,2998,JazzCash,Delivered
+AHS-1455,18-Nov-2024,19-Nov-2024,1,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Islamabad,ICT,1,8999,0.1,8099,8099,5500,2599,JazzCash,Delivered
+AHS-1456,18-Nov-2024,21-Nov-2024,3,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,11999,0,11999,11999,7500,4499,Bank Transfer,Delivered
+AHS-1457,18-Nov-2024,20-Nov-2024,2,Modern Rug MD-213,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0,6999,6999,4000,2999,Bank Transfer,Delivered
+AHS-1458,19-Nov-2024,21-Nov-2024,2,Night Petals Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0,2999,2999,1500,1499,Bank Transfer,Delivered
+AHS-1459,19-Nov-2024,20-Nov-2024,1,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Karachi,Sindh,1,5999,0.1,5399,5399,3200,2199,COD,Cancelled
+AHS-1460,20-Nov-2024,25-Nov-2024,5,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Faisalabad,Punjab,1,8999,0.2,7199,7199,5500,1699,Bank Transfer,Delivered
+AHS-1461,21-Nov-2024,23-Nov-2024,2,Grey Blossom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1462,21-Nov-2024,25-Nov-2024,4,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Multan,Punjab,1,5999,0,5999,5999,3200,2799,COD,Delivered
+AHS-1463,21-Nov-2024,24-Nov-2024,3,Modern Rug MD-213,Rugs,Modern Rugs,Lahore,Punjab,2,6999,0,6999,13998,8000,5998,COD,Delivered
+AHS-1464,22-Nov-2024,26-Nov-2024,4,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Hyderabad,Sindh,1,8999,0.2,7199,7199,5500,1699,COD,Delivered
+AHS-1465,22-Nov-2024,25-Nov-2024,3,Nexus Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2650,0,2650,5300,2800,2500,COD,Delivered
+AHS-1466,23-Nov-2024,24-Nov-2024,1,Night Petals Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,2,2999,0,2999,5998,3000,2998,JazzCash,Cancelled
+AHS-1467,25-Nov-2024,26-Nov-2024,1,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0.15,2549,2549,1500,1049,EasyPaisa,Delivered
+AHS-1468,25-Nov-2024,28-Nov-2024,3,Fleece Blanket Purple,Bedding,Blankets,Lahore,Punjab,2,3500,0.15,2975,5950,3600,2350,Bank Transfer,Delivered
+AHS-1469,25-Nov-2024,30-Nov-2024,5,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Peshawar,KPK,1,8999,0.2,7199,7199,5500,1699,Bank Transfer,Delivered
+AHS-1470,26-Nov-2024,27-Nov-2024,1,Chestnut Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0.1,2699,2699,1500,1199,JazzCash,Delivered
+AHS-1471,26-Nov-2024,30-Nov-2024,4,Premium Bath Mat,Mats,Mats,Faisalabad,Punjab,2,1999,0.2,1599,3198,2000,1198,EasyPaisa,Delivered
+AHS-1472,26-Nov-2024,1-Dec-2024,5,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,1,9999,0.1,8999,8999,6200,2799,COD,Delivered
+AHS-1473,26-Nov-2024,28-Nov-2024,2,Serenity Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2650,0.15,2252,4504,2800,1704,COD,Delivered
+AHS-1474,27-Nov-2024,30-Nov-2024,3,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Karachi,Sindh,2,9999,0,9999,19998,12400,7598,COD,Delivered
+AHS-1475,27-Nov-2024,1-Dec-2024,4,Silva Bedsheet,Bedding,Bed Sheets,Sialkot,Punjab,1,2650,0,2650,2650,1400,1250,EasyPaisa,Delivered
+AHS-1476,27-Nov-2024,2-Dec-2024,5,Fleece Blanket Grey,Bedding,Blankets,Faisalabad,Punjab,1,3500,0,3500,3500,1800,1700,JazzCash,Delivered
+AHS-1477,27-Nov-2024,1-Dec-2024,4,Modern Rug MD-208,Rugs,Modern Rugs,Faisalabad,Punjab,2,6999,0.15,5949,11898,8000,3898,COD,Delivered
+AHS-1478,28-Nov-2024,29-Nov-2024,1,Modern Rug MD-211,Rugs,Modern Rugs,Lahore,Punjab,2,8999,0.1,8099,16198,11000,5198,COD,Delivered
+AHS-1479,28-Nov-2024,30-Nov-2024,2,Jingle Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0.2,2120,2120,1400,720,COD,Delivered
+AHS-1480,28-Nov-2024,30-Nov-2024,2,Modern Rug MD-211,Rugs,Modern Rugs,Lahore,Punjab,3,8999,0.15,7649,22947,16500,6447,COD,Delivered
+AHS-1481,29-Nov-2024,3-Dec-2024,4,Grey Blossom Bedsheet,Bedding,Bed Sheets,Hyderabad,Sindh,1,2999,0.1,2699,2699,1500,1199,EasyPaisa,Delivered
+AHS-1482,29-Nov-2024,30-Nov-2024,1,Nexus Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2650,0,2650,2650,1400,1250,JazzCash,Delivered
+AHS-1483,29-Nov-2024,1-Dec-2024,2,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Rawalpindi,Punjab,1,5999,0.1,5399,5399,3200,2199,EasyPaisa,Delivered
+AHS-1484,30-Nov-2024,4-Dec-2024,4,Modern Rug MD-207,Rugs,Modern Rugs,Quetta,Balochistan,1,6999,0.1,6299,6299,4000,2299,COD,Delivered
+AHS-1485,30-Nov-2024,3-Dec-2024,3,Fleece Blanket Grey,Bedding,Blankets,Lahore,Punjab,1,3500,0,3500,3500,1800,1700,COD,Delivered
+AHS-1486,1-Dec-2024,5-Dec-2024,4,Modern Rug MD-212,Rugs,Modern Rugs,Multan,Punjab,1,8999,0,8999,8999,5500,3499,Bank Transfer,Delivered
+AHS-1487,1-Dec-2024,5-Dec-2024,4,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Rawalpindi,Punjab,1,2099,0,2099,2099,1100,999,COD,Delivered
+AHS-1488,1-Dec-2024,4-Dec-2024,3,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Peshawar,KPK,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1489,2-Dec-2024,6-Dec-2024,4,Modern Rug MD-212,Rugs,Modern Rugs,Faisalabad,Punjab,2,8999,0.15,7649,15298,11000,4298,Bank Transfer,Delivered
+AHS-1490,2-Dec-2024,7-Dec-2024,5,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2999,0.28,2159,2159,1500,659,COD,Delivered
+AHS-1491,2-Dec-2024,5-Dec-2024,3,Serenity Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,3,2650,0.15,2252,6756,4200,2556,Bank Transfer,Delivered
+AHS-1492,2-Dec-2024,5-Dec-2024,3,Modern Rug MD-213,Rugs,Modern Rugs,Rawalpindi,Punjab,1,6999,0.2,5599,5599,4000,1599,COD,Delivered
+AHS-1493,3-Dec-2024,4-Dec-2024,1,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Karachi,Sindh,1,2099,0,2099,2099,1100,999,EasyPaisa,Delivered
+AHS-1494,3-Dec-2024,7-Dec-2024,4,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1495,4-Dec-2024,7-Dec-2024,3,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,9999,0.2,7999,7999,6200,1799,EasyPaisa,Delivered
+AHS-1496,4-Dec-2024,9-Dec-2024,5,Kitchen Anti-Fatigue Mat,Mats,Mats,Hyderabad,Sindh,1,2499,0.2,1999,1999,1300,699,EasyPaisa,Delivered
+AHS-1497,4-Dec-2024,6-Dec-2024,2,Modern Rug MD-212,Rugs,Modern Rugs,Lahore,Punjab,1,8999,0.2,7199,7199,5500,1699,COD,Delivered
+AHS-1498,4-Dec-2024,6-Dec-2024,2,Premium Bath Mat,Mats,Mats,Peshawar,KPK,3,1999,0,1999,5997,3000,2997,COD,Delivered
+AHS-1499,5-Dec-2024,6-Dec-2024,1,Modern Rug MD-208,Rugs,Modern Rugs,Lahore,Punjab,3,6999,0,6999,20997,12000,8997,COD,Delivered
+AHS-1500,5-Dec-2024,7-Dec-2024,2,Coco Blossom Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2999,0.15,2549,2549,1500,1049,COD,Delivered
+AHS-1501,5-Dec-2024,7-Dec-2024,2,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Lahore,Punjab,3,11999,0,11999,35997,22500,13497,COD,Delivered
+AHS-1502,6-Dec-2024,9-Dec-2024,3,Opal Bedsheet,Bedding,Bed Sheets,Peshawar,KPK,2,2650,0.1,2385,4770,2800,1970,COD,Delivered
+AHS-1503,6-Dec-2024,9-Dec-2024,3,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Rawalpindi,Punjab,1,5999,0,5999,5999,3200,2799,Bank Transfer,Delivered
+AHS-1504,6-Dec-2024,10-Dec-2024,4,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Multan,Punjab,1,2999,0,2999,2999,1500,1499,Bank Transfer,Delivered
+AHS-1505,7-Dec-2024,10-Dec-2024,3,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Peshawar,KPK,3,11999,0,11999,35997,22500,13497,COD,Delivered
+AHS-1506,7-Dec-2024,10-Dec-2024,3,Coco Blossom Bedsheet,Bedding,Bed Sheets,Hyderabad,Sindh,2,2999,0.1,2699,5398,3000,2398,Bank Transfer,Delivered
+AHS-1507,7-Dec-2024,9-Dec-2024,2,Chestnut Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Faisalabad,Punjab,1,5999,0,5999,5999,3200,2799,Bank Transfer,Delivered
+AHS-1508,7-Dec-2024,9-Dec-2024,2,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Peshawar,KPK,1,9999,0.1,8999,8999,6200,2799,JazzCash,Delivered
+AHS-1509,7-Dec-2024,10-Dec-2024,3,Mosaic Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0.1,2385,2385,1400,985,COD,Delivered
+AHS-1510,8-Dec-2024,11-Dec-2024,3,Night Petals Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1511,8-Dec-2024,10-Dec-2024,2,Fleece Blanket Grey,Bedding,Blankets,Rawalpindi,Punjab,2,3500,0.1,3150,6300,3600,2700,COD,Delivered
+AHS-1512,10-Dec-2024,13-Dec-2024,3,Fleece Blanket Beige,Bedding,Blankets,Karachi,Sindh,1,3500,0,3500,3500,1800,1700,COD,Delivered
+AHS-1513,10-Dec-2024,13-Dec-2024,3,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,1,5999,0,5999,5999,3200,2799,JazzCash,Delivered
+AHS-1514,10-Dec-2024,13-Dec-2024,3,Modern Rug MD-207,Rugs,Modern Rugs,Lahore,Punjab,1,6999,0.15,5949,5949,4000,1949,EasyPaisa,Delivered
+AHS-1515,10-Dec-2024,12-Dec-2024,2,Modern Rug MD-208,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0.1,6299,6299,4000,2299,COD,Delivered
+AHS-1516,10-Dec-2024,11-Dec-2024,1,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,3,5999,0,5999,17997,9600,8397,EasyPaisa,Delivered
+AHS-1517,11-Dec-2024,12-Dec-2024,1,Fleece Blanket Beige,Bedding,Blankets,Lahore,Punjab,1,3500,0.1,3150,3150,1800,1350,EasyPaisa,Delivered
+AHS-1518,11-Dec-2024,15-Dec-2024,4,Opal Bedsheet,Bedding,Bed Sheets,Peshawar,KPK,1,2650,0,2650,2650,1400,1250,COD,Delivered
+AHS-1519,12-Dec-2024,14-Dec-2024,2,Nexus Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2650,0,2650,2650,1400,1250,COD,Delivered
+AHS-1520,12-Dec-2024,14-Dec-2024,2,Modern Rug MD-207,Rugs,Modern Rugs,Multan,Punjab,1,6999,0.15,5949,5949,4000,1949,Bank Transfer,Delivered
+AHS-1521,13-Dec-2024,16-Dec-2024,3,Coco Blossom Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,2,2999,0.1,2699,5398,3000,2398,COD,Delivered
+AHS-1522,13-Dec-2024,16-Dec-2024,3,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Faisalabad,Punjab,1,9999,0.2,7999,7999,6200,1799,Bank Transfer,Delivered
+AHS-1523,13-Dec-2024,17-Dec-2024,4,Modern Rug MD-207,Rugs,Modern Rugs,Quetta,Balochistan,1,6999,0.1,6299,6299,4000,2299,COD,Delivered
+AHS-1524,13-Dec-2024,17-Dec-2024,4,Opal Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,1,2650,0.15,2252,2252,1400,852,Bank Transfer,Delivered
+AHS-1525,13-Dec-2024,15-Dec-2024,2,Modern Rug MD-212,Rugs,Modern Rugs,Islamabad,ICT,2,8999,0,8999,17998,11000,6998,COD,Delivered
+AHS-1526,14-Dec-2024,15-Dec-2024,1,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Karachi,Sindh,2,9999,0.2,7999,15998,12400,3598,COD,Delivered
+AHS-1527,15-Dec-2024,18-Dec-2024,3,Modern Rug MD-211,Rugs,Modern Rugs,Multan,Punjab,2,8999,0.2,7199,14398,11000,3398,COD,Delivered
+AHS-1528,15-Dec-2024,18-Dec-2024,3,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Sialkot,Punjab,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1529,15-Dec-2024,16-Dec-2024,1,Nexus Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2650,0.1,2385,4770,2800,1970,COD,Delivered
+AHS-1530,15-Dec-2024,17-Dec-2024,2,Modern Rug MD-208,Rugs,Modern Rugs,Faisalabad,Punjab,1,6999,0.1,6299,6299,4000,2299,COD,Delivered
+AHS-1531,15-Dec-2024,17-Dec-2024,2,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Peshawar,KPK,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1532,16-Dec-2024,20-Dec-2024,4,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Multan,Punjab,1,5999,0.15,5099,5099,3200,1899,Bank Transfer,Delivered
+AHS-1533,16-Dec-2024,18-Dec-2024,2,Modern Rug MD-202,Rugs,Modern Rugs,Karachi,Sindh,2,6999,0,6999,13998,8000,5998,EasyPaisa,Delivered
+AHS-1534,16-Dec-2024,19-Dec-2024,3,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Islamabad,ICT,2,2099,0,2099,4198,2200,1998,COD,Delivered
+AHS-1535,17-Dec-2024,19-Dec-2024,2,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1536,17-Dec-2024,19-Dec-2024,2,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Faisalabad,Punjab,1,5999,0.1,5399,5399,3200,2199,EasyPaisa,Delivered
+AHS-1537,17-Dec-2024,20-Dec-2024,3,Modern Rug MD-202,Rugs,Modern Rugs,Lahore,Punjab,1,6999,0.1,6299,6299,4000,2299,COD,Returned
+AHS-1538,17-Dec-2024,18-Dec-2024,1,Jingle Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2650,0.1,2385,2385,1400,985,EasyPaisa,Delivered
+AHS-1539,17-Dec-2024,19-Dec-2024,2,Kitchen Anti-Fatigue Mat,Mats,Mats,Karachi,Sindh,2,2499,0,2499,4998,2600,2398,Bank Transfer,Delivered
+AHS-1540,17-Dec-2024,22-Dec-2024,5,Modern Rug MD-211,Rugs,Modern Rugs,Peshawar,KPK,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1541,18-Dec-2024,22-Dec-2024,4,Luxury Velvet Rug LV-309,Rugs,Luxury Velvet Rugs,Sialkot,Punjab,1,8999,0,8999,8999,5500,3499,Bank Transfer,Delivered
+AHS-1542,18-Dec-2024,22-Dec-2024,4,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Peshawar,KPK,2,2099,0.2,1679,3358,2200,1158,COD,Delivered
+AHS-1543,18-Dec-2024,22-Dec-2024,4,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Quetta,Balochistan,1,8999,0.15,7649,7649,5500,2149,COD,Cancelled
+AHS-1544,18-Dec-2024,22-Dec-2024,4,Chestnut Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2999,0.1,2699,2699,1500,1199,Bank Transfer,Returned
+AHS-1545,18-Dec-2024,21-Dec-2024,3,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Multan,Punjab,1,11999,0,11999,11999,7500,4499,Bank Transfer,Delivered
+AHS-1546,18-Dec-2024,22-Dec-2024,4,Fleece Blanket Grey,Bedding,Blankets,Faisalabad,Punjab,1,3500,0,3500,3500,1800,1700,EasyPaisa,Delivered
+AHS-1547,19-Dec-2024,22-Dec-2024,3,Chestnut Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Faisalabad,Punjab,1,5999,0.15,5099,5099,3200,1899,EasyPaisa,Delivered
+AHS-1548,19-Dec-2024,20-Dec-2024,1,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Lahore,Punjab,1,2099,0.15,1784,1784,1100,684,Bank Transfer,Delivered
+AHS-1549,19-Dec-2024,20-Dec-2024,1,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Lahore,Punjab,3,9999,0.28,7199,21597,18600,2997,Bank Transfer,Delivered
+AHS-1550,20-Dec-2024,23-Dec-2024,3,Fleece Blanket Purple,Bedding,Blankets,Karachi,Sindh,2,3500,0.2,2800,5600,3600,2000,COD,Delivered
+AHS-1551,20-Dec-2024,24-Dec-2024,4,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Faisalabad,Punjab,1,9999,0.1,8999,8999,6200,2799,JazzCash,Delivered
+AHS-1552,20-Dec-2024,22-Dec-2024,2,Modern Rug MD-202,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0,6999,6999,4000,2999,COD,Delivered
+AHS-1553,20-Dec-2024,22-Dec-2024,2,Serenity Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2650,0,2650,2650,1400,1250,COD,Delivered
+AHS-1554,20-Dec-2024,24-Dec-2024,4,Modern Rug MD-205,Rugs,Modern Rugs,Rawalpindi,Punjab,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1555,21-Dec-2024,24-Dec-2024,3,Modern Rug MD-208,Rugs,Modern Rugs,Faisalabad,Punjab,1,6999,0,6999,6999,4000,2999,COD,Delivered
+AHS-1556,21-Dec-2024,22-Dec-2024,1,Modern Rug MD-212,Rugs,Modern Rugs,Karachi,Sindh,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1557,22-Dec-2024,27-Dec-2024,5,Chestnut Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Rawalpindi,Punjab,1,5999,0,5999,5999,3200,2799,Bank Transfer,Returned
+AHS-1558,22-Dec-2024,25-Dec-2024,3,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Multan,Punjab,3,2099,0,2099,6297,3300,2997,COD,Delivered
+AHS-1559,22-Dec-2024,26-Dec-2024,4,Serenity Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,1,2650,0.2,2120,2120,1400,720,COD,Returned
+AHS-1560,22-Dec-2024,24-Dec-2024,2,Mosaic Bedsheet,Bedding,Bed Sheets,Quetta,Balochistan,2,2650,0,2650,5300,2800,2500,COD,Delivered
+AHS-1561,23-Dec-2024,25-Dec-2024,2,Fleece Blanket Beige,Bedding,Blankets,Peshawar,KPK,1,3500,0.1,3150,3150,1800,1350,COD,Returned
+AHS-1562,23-Dec-2024,24-Dec-2024,1,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0,2999,2999,1500,1499,EasyPaisa,Delivered
+AHS-1563,23-Dec-2024,25-Dec-2024,2,Modern Rug MD-213,Rugs,Modern Rugs,Multan,Punjab,2,6999,0.15,5949,11898,8000,3898,EasyPaisa,Delivered
+AHS-1564,24-Dec-2024,26-Dec-2024,2,Night Petals Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,2,2999,0,2999,5998,3000,2998,COD,Delivered
+AHS-1565,25-Dec-2024,27-Dec-2024,2,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Karachi,Sindh,2,2099,0.2,1679,3358,2200,1158,COD,Delivered
+AHS-1566,25-Dec-2024,26-Dec-2024,1,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,11999,0,11999,11999,7500,4499,Bank Transfer,Delivered
+AHS-1567,26-Dec-2024,29-Dec-2024,3,Kitchen Anti-Fatigue Mat,Mats,Mats,Karachi,Sindh,2,2499,0,2499,4998,2600,2398,COD,Delivered
+AHS-1568,26-Dec-2024,27-Dec-2024,1,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Islamabad,ICT,1,8999,0.2,7199,7199,5500,1699,EasyPaisa,Delivered
+AHS-1569,26-Dec-2024,28-Dec-2024,2,Modern Rug MD-207,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0.15,5949,5949,4000,1949,EasyPaisa,Delivered
+AHS-1570,26-Dec-2024,27-Dec-2024,1,Night Petals Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2999,0.28,2159,4318,3000,1318,Bank Transfer,Delivered
+AHS-1571,27-Dec-2024,29-Dec-2024,2,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Peshawar,KPK,1,2099,0,2099,2099,1100,999,COD,Delivered
+AHS-1572,27-Dec-2024,30-Dec-2024,3,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Karachi,Sindh,2,8999,0.15,7649,15298,11000,4298,JazzCash,Delivered
+AHS-1573,27-Dec-2024,30-Dec-2024,3,Night Petals Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0.15,2549,2549,1500,1049,COD,Delivered
+AHS-1574,28-Dec-2024,1-Jan-2025,4,Jingle Bedsheet,Bedding,Bed Sheets,Peshawar,KPK,3,2650,0.28,1908,5724,4200,1524,COD,Delivered
+AHS-1575,29-Dec-2024,1-Jan-2025,3,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0.1,2699,2699,1500,1199,COD,Returned
+AHS-1576,29-Dec-2024,1-Jan-2025,3,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Karachi,Sindh,1,5999,0.2,4799,4799,3200,1599,COD,Delivered
+AHS-1577,29-Dec-2024,1-Jan-2025,3,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,1,8999,0.1,8099,8099,5500,2599,JazzCash,Delivered
+AHS-1578,30-Dec-2024,1-Jan-2025,2,Opal Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2650,0.15,2252,4504,2800,1704,COD,Delivered
+AHS-1579,30-Dec-2024,4-Jan-2025,5,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,1,2999,0.1,2699,2699,1500,1199,EasyPaisa,Delivered
+AHS-1580,30-Dec-2024,2-Jan-2025,3,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Karachi,Sindh,1,2099,0,2099,2099,1100,999,EasyPaisa,Delivered
+AHS-1581,31-Dec-2024,3-Jan-2025,3,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Karachi,Sindh,2,5999,0,5999,11998,6400,5598,COD,Delivered
+AHS-1582,1-Jan-2025,5-Jan-2025,4,Mosaic Bedsheet,Bedding,Bed Sheets,Multan,Punjab,1,2650,0.15,2252,2252,1400,852,COD,Delivered
+AHS-1583,1-Jan-2025,5-Jan-2025,4,Modern Rug MD-213,Rugs,Modern Rugs,Peshawar,KPK,1,6999,0.15,5949,5949,4000,1949,COD,Delivered
+AHS-1584,2-Jan-2025,5-Jan-2025,3,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0,2999,2999,1500,1499,Bank Transfer,Delivered
+AHS-1585,2-Jan-2025,5-Jan-2025,3,Coco Blossom Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2999,0,2999,2999,1500,1499,Bank Transfer,Delivered
+AHS-1586,2-Jan-2025,5-Jan-2025,3,Modern Rug MD-207,Rugs,Modern Rugs,Hyderabad,Sindh,1,6999,0.15,5949,5949,4000,1949,COD,Delivered
+AHS-1587,3-Jan-2025,5-Jan-2025,2,Serenity Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,1,2650,0.15,2252,2252,1400,852,JazzCash,Delivered
+AHS-1588,3-Jan-2025,7-Jan-2025,4,Serenity Bedsheet,Bedding,Bed Sheets,Sialkot,Punjab,1,2650,0.15,2252,2252,1400,852,EasyPaisa,Delivered
+AHS-1589,4-Jan-2025,5-Jan-2025,1,Kitchen Anti-Fatigue Mat,Mats,Mats,Islamabad,ICT,1,2499,0.15,2124,2124,1300,824,Bank Transfer,Delivered
+AHS-1590,5-Jan-2025,7-Jan-2025,2,Modern Rug MD-212,Rugs,Modern Rugs,Karachi,Sindh,3,8999,0,8999,26997,16500,10497,EasyPaisa,Delivered
+AHS-1591,5-Jan-2025,8-Jan-2025,3,Modern Rug MD-208,Rugs,Modern Rugs,Multan,Punjab,2,6999,0,6999,13998,8000,5998,COD,Delivered
+AHS-1592,6-Jan-2025,7-Jan-2025,1,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2999,0,2999,2999,1500,1499,Bank Transfer,Delivered
+AHS-1593,6-Jan-2025,9-Jan-2025,3,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,1,5999,0,5999,5999,3200,2799,COD,Delivered
+AHS-1594,8-Jan-2025,11-Jan-2025,3,Coco Blossom Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,1,2999,0,2999,2999,1500,1499,Bank Transfer,Delivered
+AHS-1595,8-Jan-2025,10-Jan-2025,2,Modern Rug MD-211,Rugs,Modern Rugs,Karachi,Sindh,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1596,9-Jan-2025,12-Jan-2025,3,Premium Bath Mat,Mats,Mats,Rawalpindi,Punjab,2,1999,0.15,1699,3398,2000,1398,JazzCash,Delivered
+AHS-1597,10-Jan-2025,11-Jan-2025,1,Modern Rug MD-202,Rugs,Modern Rugs,Islamabad,ICT,1,6999,0.1,6299,6299,4000,2299,COD,Delivered
+AHS-1598,12-Jan-2025,16-Jan-2025,4,Kitchen Anti-Fatigue Mat,Mats,Mats,Multan,Punjab,1,2499,0.15,2124,2124,1300,824,Bank Transfer,Delivered
+AHS-1599,13-Jan-2025,16-Jan-2025,3,Modern Rug MD-205,Rugs,Modern Rugs,Islamabad,ICT,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1600,15-Jan-2025,17-Jan-2025,2,Modern Rug MD-211,Rugs,Modern Rugs,Rawalpindi,Punjab,2,8999,0.1,8099,16198,11000,5198,JazzCash,Delivered
+AHS-1601,15-Jan-2025,16-Jan-2025,1,Modern Rug MD-213,Rugs,Modern Rugs,Islamabad,ICT,1,6999,0.1,6299,6299,4000,2299,Bank Transfer,Delivered
+AHS-1602,16-Jan-2025,18-Jan-2025,2,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Islamabad,ICT,1,11999,0,11999,11999,7500,4499,COD,Delivered
+AHS-1603,16-Jan-2025,18-Jan-2025,2,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Lahore,Punjab,2,9999,0.2,7999,15998,12400,3598,Bank Transfer,Delivered
+AHS-1604,16-Jan-2025,19-Jan-2025,3,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,2,2999,0.2,2399,4798,3000,1798,Bank Transfer,Delivered
+AHS-1605,17-Jan-2025,20-Jan-2025,3,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1606,17-Jan-2025,19-Jan-2025,2,Opal Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2650,0.15,2252,2252,1400,852,COD,Delivered
+AHS-1607,19-Jan-2025,22-Jan-2025,3,Kitchen Anti-Fatigue Mat,Mats,Mats,Karachi,Sindh,2,2499,0.1,2249,4498,2600,1898,COD,Delivered
+AHS-1608,20-Jan-2025,25-Jan-2025,5,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Faisalabad,Punjab,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1609,21-Jan-2025,23-Jan-2025,2,Fleece Blanket Purple,Bedding,Blankets,Sialkot,Punjab,1,3500,0.15,2975,2975,1800,1175,COD,Delivered
+AHS-1610,21-Jan-2025,23-Jan-2025,2,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,1,5999,0,5999,5999,3200,2799,COD,Delivered
+AHS-1611,21-Jan-2025,22-Jan-2025,1,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Islamabad,ICT,1,2099,0,2099,2099,1100,999,Bank Transfer,Delivered
+AHS-1612,22-Jan-2025,25-Jan-2025,3,Night Petals Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1613,23-Jan-2025,25-Jan-2025,2,Serenity Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,3,2650,0.1,2385,7155,4200,2955,COD,Delivered
+AHS-1614,24-Jan-2025,28-Jan-2025,4,Grey Blossom Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,1,2999,0,2999,2999,1500,1499,EasyPaisa,Delivered
+AHS-1615,24-Jan-2025,25-Jan-2025,1,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Karachi,Sindh,1,5999,0.1,5399,5399,3200,2199,COD,Delivered
+AHS-1616,25-Jan-2025,27-Jan-2025,2,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,9999,0,9999,9999,6200,3799,EasyPaisa,Cancelled
+AHS-1617,26-Jan-2025,29-Jan-2025,3,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,8999,0,8999,8999,5500,3499,JazzCash,Delivered
+AHS-1618,26-Jan-2025,29-Jan-2025,3,Fleece Blanket Beige,Bedding,Blankets,Faisalabad,Punjab,1,3500,0.1,3150,3150,1800,1350,EasyPaisa,Delivered
+AHS-1619,27-Jan-2025,30-Jan-2025,3,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,1,5999,0,5999,5999,3200,2799,COD,Delivered
+AHS-1620,27-Jan-2025,30-Jan-2025,3,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2999,0,2999,2999,1500,1499,COD,Delivered
+AHS-1621,27-Jan-2025,29-Jan-2025,2,Premium Bath Mat,Mats,Mats,Karachi,Sindh,1,1999,0,1999,1999,1000,999,COD,Delivered
+AHS-1622,27-Jan-2025,1-Feb-2025,5,Modern Rug MD-205,Rugs,Modern Rugs,Rawalpindi,Punjab,2,8999,0.2,7199,14398,11000,3398,COD,Delivered
+AHS-1623,29-Jan-2025,31-Jan-2025,2,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Rawalpindi,Punjab,1,5999,0,5999,5999,3200,2799,COD,Returned
+AHS-1624,30-Jan-2025,31-Jan-2025,1,Fleece Blanket Purple,Bedding,Blankets,Karachi,Sindh,1,3500,0.15,2975,2975,1800,1175,COD,Delivered
+AHS-1625,1-Feb-2025,2-Feb-2025,1,Modern Rug MD-207,Rugs,Modern Rugs,Lahore,Punjab,1,6999,0.1,6299,6299,4000,2299,Bank Transfer,Delivered
+AHS-1626,1-Feb-2025,4-Feb-2025,3,Modern Rug MD-208,Rugs,Modern Rugs,Faisalabad,Punjab,1,6999,0,6999,6999,4000,2999,COD,Delivered
+AHS-1627,1-Feb-2025,4-Feb-2025,3,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.2,7199,7199,5500,1699,Bank Transfer,Delivered
+AHS-1628,2-Feb-2025,7-Feb-2025,5,Opal Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2650,0,2650,2650,1400,1250,Bank Transfer,Delivered
+AHS-1629,3-Feb-2025,6-Feb-2025,3,Premium Bath Mat,Mats,Mats,Peshawar,KPK,1,1999,0.28,1439,1439,1000,439,COD,Delivered
+AHS-1630,4-Feb-2025,6-Feb-2025,2,Premium Bath Mat,Mats,Mats,Karachi,Sindh,1,1999,0.1,1799,1799,1000,799,COD,Returned
+AHS-1631,5-Feb-2025,9-Feb-2025,4,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Peshawar,KPK,2,8999,0.1,8099,16198,11000,5198,COD,Delivered
+AHS-1632,5-Feb-2025,7-Feb-2025,2,Opal Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0.1,2385,2385,1400,985,Bank Transfer,Delivered
+AHS-1633,5-Feb-2025,7-Feb-2025,2,Grey Blossom Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2999,0.1,2699,2699,1500,1199,COD,Delivered
+AHS-1634,8-Feb-2025,9-Feb-2025,1,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Karachi,Sindh,2,11999,0,11999,23998,15000,8998,COD,Delivered
+AHS-1635,8-Feb-2025,9-Feb-2025,1,Premium Bath Mat,Mats,Mats,Karachi,Sindh,1,1999,0,1999,1999,1000,999,COD,Delivered
+AHS-1636,8-Feb-2025,9-Feb-2025,1,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Lahore,Punjab,1,2099,0,2099,2099,1100,999,COD,Returned
+AHS-1637,8-Feb-2025,10-Feb-2025,2,Grey Blossom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0.2,2399,2399,1500,899,COD,Delivered
+AHS-1638,10-Feb-2025,11-Feb-2025,1,Modern Rug MD-208,Rugs,Modern Rugs,Lahore,Punjab,1,6999,0.1,6299,6299,4000,2299,Bank Transfer,Delivered
+AHS-1639,10-Feb-2025,14-Feb-2025,4,Chestnut Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Multan,Punjab,1,5999,0.1,5399,5399,3200,2199,COD,Delivered
+AHS-1640,11-Feb-2025,14-Feb-2025,3,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Islamabad,ICT,3,9999,0,9999,29997,18600,11397,COD,Delivered
+AHS-1641,13-Feb-2025,15-Feb-2025,2,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Islamabad,ICT,1,5999,0.1,5399,5399,3200,2199,COD,Cancelled
+AHS-1642,14-Feb-2025,17-Feb-2025,3,Modern Rug MD-211,Rugs,Modern Rugs,Lahore,Punjab,2,8999,0.2,7199,14398,11000,3398,COD,Delivered
+AHS-1643,15-Feb-2025,20-Feb-2025,5,Night Petals Bedsheet,Bedding,Bed Sheets,Peshawar,KPK,1,2999,0.2,2399,2399,1500,899,Bank Transfer,Delivered
+AHS-1644,16-Feb-2025,19-Feb-2025,3,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2999,0,2999,2999,1500,1499,Bank Transfer,Delivered
+AHS-1645,16-Feb-2025,18-Feb-2025,2,Luxury Velvet Rug LV-318,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.2,7199,7199,5500,1699,Bank Transfer,Delivered
+AHS-1646,17-Feb-2025,20-Feb-2025,3,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Karachi,Sindh,2,8999,0,8999,17998,11000,6998,COD,Delivered
+AHS-1647,17-Feb-2025,18-Feb-2025,1,Nexus Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0,2650,2650,1400,1250,COD,Returned
+AHS-1648,18-Feb-2025,20-Feb-2025,2,Mosaic Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2650,0.28,1908,1908,1400,508,Bank Transfer,Delivered
+AHS-1649,18-Feb-2025,19-Feb-2025,1,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,9999,0,9999,9999,6200,3799,COD,Delivered
+AHS-1650,20-Feb-2025,23-Feb-2025,3,Mosaic Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0.2,2120,2120,1400,720,COD,Delivered
+AHS-1651,22-Feb-2025,24-Feb-2025,2,Fleece Blanket Grey,Bedding,Blankets,Islamabad,ICT,1,3500,0.2,2800,2800,1800,1000,Bank Transfer,Delivered
+AHS-1652,22-Feb-2025,23-Feb-2025,1,Premium Bath Mat,Mats,Mats,Lahore,Punjab,1,1999,0.1,1799,1799,1000,799,COD,Delivered
+AHS-1653,23-Feb-2025,24-Feb-2025,1,Nexus Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2650,0,2650,2650,1400,1250,COD,Delivered
+AHS-1654,25-Feb-2025,27-Feb-2025,2,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,8999,0.15,7649,7649,5500,2149,EasyPaisa,Delivered
+AHS-1655,25-Feb-2025,28-Feb-2025,3,Opal Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,2,2650,0.1,2385,4770,2800,1970,COD,Delivered
+AHS-1656,25-Feb-2025,2-Mar-2025,5,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Peshawar,KPK,1,8999,0,8999,8999,5500,3499,Bank Transfer,Delivered
+AHS-1657,26-Feb-2025,1-Mar-2025,3,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Karachi,Sindh,1,5999,0,5999,5999,3200,2799,JazzCash,Delivered
+AHS-1658,27-Feb-2025,28-Feb-2025,1,Fleece Blanket Grey,Bedding,Blankets,Lahore,Punjab,2,3500,0.15,2975,5950,3600,2350,EasyPaisa,Delivered
+AHS-1659,27-Feb-2025,28-Feb-2025,1,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0.1,2699,2699,1500,1199,Bank Transfer,Delivered
+AHS-1660,28-Feb-2025,2-Mar-2025,2,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1661,2-Mar-2025,6-Mar-2025,4,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,2,2999,0,2999,5998,3000,2998,COD,Delivered
+AHS-1662,2-Mar-2025,4-Mar-2025,2,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Lahore,Punjab,2,8999,0.28,6479,12958,11000,1958,EasyPaisa,Delivered
+AHS-1663,2-Mar-2025,7-Mar-2025,5,Nexus Bedsheet,Bedding,Bed Sheets,Multan,Punjab,3,2650,0,2650,7950,4200,3750,COD,Delivered
+AHS-1664,3-Mar-2025,6-Mar-2025,3,Grey Blossom Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,2,2999,0.15,2549,5098,3000,2098,COD,Delivered
+AHS-1665,4-Mar-2025,7-Mar-2025,3,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,3,5999,0,5999,17997,9600,8397,COD,Cancelled
+AHS-1666,4-Mar-2025,6-Mar-2025,2,Silva Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,3,2650,0.1,2385,7155,4200,2955,COD,Delivered
+AHS-1667,4-Mar-2025,8-Mar-2025,4,Coco Blossom Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,1,2999,0.2,2399,2399,1500,899,COD,Delivered
+AHS-1668,4-Mar-2025,6-Mar-2025,2,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Lahore,Punjab,1,5999,0.15,5099,5099,3200,1899,COD,Cancelled
+AHS-1669,4-Mar-2025,5-Mar-2025,1,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Karachi,Sindh,2,8999,0.1,8099,16198,11000,5198,COD,Delivered
+AHS-1670,4-Mar-2025,7-Mar-2025,3,Kitchen Anti-Fatigue Mat,Mats,Mats,Faisalabad,Punjab,1,2499,0.1,2249,2249,1300,949,COD,Delivered
+AHS-1671,5-Mar-2025,6-Mar-2025,1,Modern Rug MD-208,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0.2,5599,5599,4000,1599,Bank Transfer,Cancelled
+AHS-1672,5-Mar-2025,9-Mar-2025,4,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Rawalpindi,Punjab,2,8999,0.15,7649,15298,11000,4298,COD,Delivered
+AHS-1673,5-Mar-2025,7-Mar-2025,2,Modern Rug MD-202,Rugs,Modern Rugs,Faisalabad,Punjab,1,6999,0,6999,6999,4000,2999,COD,Delivered
+AHS-1674,7-Mar-2025,11-Mar-2025,4,Modern Rug MD-208,Rugs,Modern Rugs,Rawalpindi,Punjab,1,6999,0.1,6299,6299,4000,2299,Bank Transfer,Delivered
+AHS-1675,7-Mar-2025,9-Mar-2025,2,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Faisalabad,Punjab,1,8999,0.15,7649,7649,5500,2149,Bank Transfer,Delivered
+AHS-1676,7-Mar-2025,10-Mar-2025,3,Modern Rug MD-212,Rugs,Modern Rugs,Karachi,Sindh,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1677,8-Mar-2025,9-Mar-2025,1,Modern Rug MD-211,Rugs,Modern Rugs,Lahore,Punjab,1,8999,0,8999,8999,5500,3499,EasyPaisa,Delivered
+AHS-1678,9-Mar-2025,14-Mar-2025,5,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Faisalabad,Punjab,1,8999,0.1,8099,8099,5500,2599,COD,Delivered
+AHS-1679,9-Mar-2025,12-Mar-2025,3,Water Absorbent Anti-Slip Mat Set,Mats,Mats,Karachi,Sindh,1,2099,0.1,1889,1889,1100,789,COD,Delivered
+AHS-1680,9-Mar-2025,10-Mar-2025,1,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,3,2999,0,2999,8997,4500,4497,COD,Delivered
+AHS-1681,9-Mar-2025,12-Mar-2025,3,Silva Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0,2650,2650,1400,1250,Bank Transfer,Delivered
+AHS-1682,9-Mar-2025,12-Mar-2025,3,Fleece Blanket Purple,Bedding,Blankets,Karachi,Sindh,1,3500,0.15,2975,2975,1800,1175,JazzCash,Delivered
+AHS-1683,10-Mar-2025,15-Mar-2025,5,Modern Rug MD-208,Rugs,Modern Rugs,Quetta,Balochistan,2,6999,0.1,6299,12598,8000,4598,COD,Delivered
+AHS-1684,10-Mar-2025,14-Mar-2025,4,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Multan,Punjab,1,9999,0.1,8999,8999,6200,2799,Bank Transfer,Delivered
+AHS-1685,10-Mar-2025,13-Mar-2025,3,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Hyderabad,Sindh,3,2999,0,2999,8997,4500,4497,COD,Delivered
+AHS-1686,10-Mar-2025,12-Mar-2025,2,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Islamabad,ICT,1,5999,0.1,5399,5399,3200,2199,Bank Transfer,Delivered
+AHS-1687,11-Mar-2025,13-Mar-2025,2,Silva Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2650,0.15,2252,2252,1400,852,COD,Delivered
+AHS-1688,11-Mar-2025,16-Mar-2025,5,Coco Blossom Bedsheet,Bedding,Bed Sheets,Multan,Punjab,1,2999,0.1,2699,2699,1500,1199,COD,Delivered
+AHS-1689,13-Mar-2025,18-Mar-2025,5,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Quetta,Balochistan,1,8999,0.28,6479,6479,5500,979,COD,Delivered
+AHS-1690,13-Mar-2025,15-Mar-2025,2,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Islamabad,ICT,1,8999,0,8999,8999,5500,3499,JazzCash,Delivered
+AHS-1691,13-Mar-2025,15-Mar-2025,2,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Hyderabad,Sindh,1,9999,0,9999,9999,6200,3799,JazzCash,Delivered
+AHS-1692,14-Mar-2025,16-Mar-2025,2,Modern Rug MD-212,Rugs,Modern Rugs,Karachi,Sindh,2,8999,0,8999,17998,11000,6998,COD,Cancelled
+AHS-1693,14-Mar-2025,17-Mar-2025,3,Mosaic Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,3,2650,0.15,2252,6756,4200,2556,COD,Delivered
+AHS-1694,14-Mar-2025,15-Mar-2025,1,Silva Bedsheet,Bedding,Bed Sheets,Karachi,Sindh,1,2650,0,2650,2650,1400,1250,Bank Transfer,Delivered
+AHS-1695,15-Mar-2025,19-Mar-2025,4,Fleece Blanket Purple,Bedding,Blankets,Multan,Punjab,1,3500,0,3500,3500,1800,1700,Bank Transfer,Delivered
+AHS-1696,15-Mar-2025,18-Mar-2025,3,Modern Rug MD-207,Rugs,Modern Rugs,Karachi,Sindh,2,6999,0.15,5949,11898,8000,3898,JazzCash,Delivered
+AHS-1697,15-Mar-2025,17-Mar-2025,2,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Karachi,Sindh,2,8999,0,8999,17998,11000,6998,JazzCash,Delivered
+AHS-1698,17-Mar-2025,19-Mar-2025,2,Luxury Velvet Rug LV-310,Rugs,Luxury Velvet Rugs,Peshawar,KPK,1,8999,0.2,7199,7199,5500,1699,EasyPaisa,Delivered
+AHS-1699,18-Mar-2025,21-Mar-2025,3,Luxury Velvet Rug LV-315,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,9999,0,9999,9999,6200,3799,COD,Delivered
+AHS-1700,18-Mar-2025,21-Mar-2025,3,Moonlace Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Karachi,Sindh,1,5999,0.28,4319,4319,3200,1119,EasyPaisa,Cancelled
+AHS-1701,18-Mar-2025,20-Mar-2025,2,Modern Rug MD-211,Rugs,Modern Rugs,Karachi,Sindh,1,8999,0.15,7649,7649,5500,2149,COD,Delivered
+AHS-1702,18-Mar-2025,21-Mar-2025,3,Premium Bath Mat,Mats,Mats,Faisalabad,Punjab,1,1999,0,1999,1999,1000,999,COD,Delivered
+AHS-1703,18-Mar-2025,21-Mar-2025,3,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,1,2999,0,2999,2999,1500,1499,Bank Transfer,Delivered
+AHS-1704,18-Mar-2025,19-Mar-2025,1,Modern Rug MD-212,Rugs,Modern Rugs,Karachi,Sindh,1,8999,0.15,7649,7649,5500,2149,JazzCash,Delivered
+AHS-1705,19-Mar-2025,21-Mar-2025,2,Chestnut Bedsheet,Bedding,Bed Sheets,Rawalpindi,Punjab,1,2999,0,2999,2999,1500,1499,Bank Transfer,Delivered
+AHS-1706,19-Mar-2025,21-Mar-2025,2,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0.15,7649,7649,5500,2149,Bank Transfer,Delivered
+AHS-1707,19-Mar-2025,21-Mar-2025,2,Serenity Bedsheet,Bedding,Bed Sheets,Quetta,Balochistan,1,2650,0.15,2252,2252,1400,852,Bank Transfer,Delivered
+AHS-1708,19-Mar-2025,23-Mar-2025,4,Chestnut Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2999,0.1,2699,2699,1500,1199,EasyPaisa,Delivered
+AHS-1709,20-Mar-2025,23-Mar-2025,3,Opal Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2650,0,2650,5300,2800,2500,COD,Delivered
+AHS-1710,20-Mar-2025,21-Mar-2025,1,Modern Rug MD-213,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0.15,5949,5949,4000,1949,Bank Transfer,Delivered
+AHS-1711,20-Mar-2025,21-Mar-2025,1,Mosaic Bedsheet,Bedding,Bed Sheets,Lahore,Punjab,2,2650,0.1,2385,4770,2800,1970,COD,Delivered
+AHS-1712,21-Mar-2025,24-Mar-2025,3,Fleece Blanket Grey,Bedding,Blankets,Karachi,Sindh,1,3500,0,3500,3500,1800,1700,COD,Delivered
+AHS-1713,22-Mar-2025,27-Mar-2025,5,Luxury Velvet Rug LV-312,Rugs,Luxury Velvet Rugs,Peshawar,KPK,1,9999,0.2,7999,7999,6200,1799,COD,Delivered
+AHS-1714,23-Mar-2025,26-Mar-2025,3,Modern Rug MD-211,Rugs,Modern Rugs,Sialkot,Punjab,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1715,26-Mar-2025,29-Mar-2025,3,Rosewood Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Islamabad,ICT,1,5999,0.2,4799,4799,3200,1599,COD,Delivered
+AHS-1716,26-Mar-2025,29-Mar-2025,3,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Lahore,Punjab,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1717,26-Mar-2025,28-Mar-2025,2,Luxury Velvet Rug LV-304,Rugs,Luxury Velvet Rugs,Karachi,Sindh,3,8999,0.1,8099,24297,16500,7797,Bank Transfer,Delivered
+AHS-1718,26-Mar-2025,29-Mar-2025,3,Mosaic Bedsheet,Bedding,Bed Sheets,Hyderabad,Sindh,3,2650,0,2650,7950,4200,3750,COD,Delivered
+AHS-1719,27-Mar-2025,1-Apr-2025,5,Nexus Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2650,0.15,2252,2252,1400,852,Bank Transfer,Delivered
+AHS-1720,27-Mar-2025,28-Mar-2025,1,Coco Blossom Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Islamabad,ICT,1,5999,0,5999,5999,3200,2799,COD,Delivered
+AHS-1721,28-Mar-2025,31-Mar-2025,3,Chestnut Quilt Cover Set 6Pcs,Bedding,Quilt Cover Sets,Rawalpindi,Punjab,1,5999,0.15,5099,5099,3200,1899,COD,Delivered
+AHS-1722,28-Mar-2025,1-Apr-2025,4,Luxury Velvet Rug LV-326,Rugs,Luxury Velvet Rugs,Sialkot,Punjab,3,11999,0,11999,35997,22500,13497,JazzCash,Returned
+AHS-1723,28-Mar-2025,31-Mar-2025,3,Lavender Stripe Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,3,2999,0,2999,8997,4500,4497,EasyPaisa,Delivered
+AHS-1724,28-Mar-2025,1-Apr-2025,4,Mosaic Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,2,2650,0.1,2385,4770,2800,1970,COD,Delivered
+AHS-1725,29-Mar-2025,2-Apr-2025,4,Night Petals Bedsheet,Bedding,Bed Sheets,Faisalabad,Punjab,1,2999,0,2999,2999,1500,1499,Bank Transfer,Delivered
+AHS-1726,29-Mar-2025,31-Mar-2025,2,Premium Bath Mat,Mats,Mats,Islamabad,ICT,1,1999,0,1999,1999,1000,999,COD,Delivered
+AHS-1727,30-Mar-2025,1-Apr-2025,2,Terracotta Bloom Bedsheet,Bedding,Bed Sheets,Islamabad,ICT,1,2999,0.15,2549,2549,1500,1049,EasyPaisa,Delivered
+AHS-1728,30-Mar-2025,1-Apr-2025,2,Modern Rug MD-207,Rugs,Modern Rugs,Karachi,Sindh,1,6999,0,6999,6999,4000,2999,COD,Delivered
+AHS-1729,30-Mar-2025,1-Apr-2025,2,Luxury Velvet Rug LV-324,Rugs,Luxury Velvet Rugs,Karachi,Sindh,1,8999,0,8999,8999,5500,3499,COD,Delivered
+AHS-1730,30-Mar-2025,4-Apr-2025,5,Modern Rug MD-208,Rugs,Modern Rugs,Rawalpindi,Punjab,2,6999,0.2,5599,11198,8000,3198,EasyPaisa,Delivered
+AHS-1731,31-Mar-2025,3-Apr-2025,3,Luxury Velvet Rug LV-307,Rugs,Luxury Velvet Rugs,Lahore,Punjab,3,8999,0.1,8099,24297,16500,7797,Bank Transfer,Delivered
